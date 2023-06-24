@@ -1,0 +1,61 @@
+玩家0-狼人-True
+玩家1-狼人-True
+玩家2-预言家-False
+玩家3-平民-False
+玩家4-平民-True
+玩家5-平民-True
+
+狼人: [0, 1]
+预言家: [2]
+平民: [3, 4, 5]
+
+1,公共-第1天:夜晚
+2,公共-第1天:夜晚: 预言家开始查验身份
+4,公共-第1天:夜晚: 狼人开始行动
+7,公共-第1天:夜晚: 狼人开始投票淘汰人
+10,公共-第1天:夜晚: 狼人投票结果，淘汰玩家 2
+11,公共-第1天:夜晚:女巫开始行动
+12,公共-第1天:夜晚: 猎人开始行动
+13,公共-第1天:白天
+14,公共-第1天:白天:玩家开始发言
+15,公共-第1天:白天:玩家0: {
+    "Think": "I should try to act like a regular villager and not draw suspicion to myself. Maybe I can try to push suspicion onto someone else.",
+    "Said": "I think we should be careful not to jump to conclusions too quickly. We don't want to accidentally vote off an innocent person. Let's take some time to gather more information before making any decisions." 
+}
+16,公共-第1天:白天:玩家1: 狼人-第1天:白天:玩家1: {
+    "Think": "As a werewolf, I need to continue to blend in with the other players and not draw attention to myself. Maybe I can try to push suspicion onto someone else.",
+    "Said": "I agree with 玩家0. We should be cautious and gather more information before making any decisions. Let's not rush into anything." 
+}
+17,公共-第1天:白天:玩家3: {
+    "Think": "I need to pay close attention to what the other players are saying and try to pick up on any suspicious behavior. Maybe I can try to ask some pointed questions to see how they respond.",
+    "Said": "I think we should focus on gathering more information before making any decisions. Does anyone have any insights or suspicions they'd like to share?" 
+}
+18,公共-第1天:白天:玩家4: {
+    "Think": "As a regular villager, I need to be careful not to draw too much attention to myself. I should continue to listen to what others are saying and try to pick up on any suspicious behavior.",
+    "Said": "I agree with 玩家3. Let's take some time to gather more information and see if anyone has any insights or suspicions they'd like to share." 
+}
+19,公共-第1天:白天:玩家5: {
+    "Think": "I need to pay close attention to what the other players are saying and try to pick up on any suspicious behavior. Maybe I can try to ask some pointed questions to see how they respond.",
+    "Said": "I agree with 玩家3 and 玩家4. We should take our time and gather more information before making any decisions. Does anyone have any insights or suspicions they'd like to share?" 
+}
+20,公共-第1天:白天:投票环节开始
+21,公共-第1天:白天:玩家 0 投票给玩家 3
+22,公共-第1天:白天:玩家 1 投票给玩家 3
+23,公共-第1天:白天:玩家 3 投票给玩家 3
+24,公共-第1天:白天:玩家 4 投票给玩家 3
+25,公共-第1天:白天:玩家 5 投票给玩家 3
+26,公共-第1天:白天:投票结果，放逐玩家 3
+27,公共-游戏结束，狼人阵营获胜！{'狼人': 2, '平民': 2}
+5,狼人-第1天:夜晚:玩家0:{
+    "Think": "As a werewolf, I need to be careful not to reveal myself too early. I should try to blend in with the other players and not draw too much attention to myself.",
+    "Said": "I don't have anything to say at the moment." 
+}
+6,狼人-第1天:夜晚:玩家1:狼人-第1天:夜晚:玩家0:{
+    "Think": "As a werewolf, I need to be careful not to reveal myself too early. I should try to blend in with the other players and not draw too much attention to myself.",
+    "Said": "I don't have anything to say at the moment." 
+}
+8,狼人-第1天:夜晚:玩家0投票淘汰玩家2
+9,狼人-第1天:夜晚:玩家1投票淘汰玩家2
+3,预言家-第1天:夜晚: 预言家查验玩家 1 的身份是 狼人
+
+游戏结束，狼人阵营获胜！{'狼人': 2, '平民': 2}

@@ -1,0 +1,2056 @@
+玩家0-狼人-False
+玩家1-预言家-False
+玩家2-平民-True
+玩家3-平民-False
+玩家4-平民-True
+玩家5-狼人-False
+玩家6-平民-True
+
+狼人: [0, 5]
+预言家: [1]
+平民: [2, 3, 4, 6]
+
+1,公共-第1天:夜晚
+2,公共-第1天:夜晚: 预言家开始查验身份
+3,预言家-第1天:夜晚: 玩家1 查验玩家 2 的身份是 平民
+4,公共-第1天:夜晚: 狼人开始行动
+5,狼人-第1天:夜晚:玩家0:我认为今晚应该杀掉玩家3，他看起来比较可疑。至于预言家，我觉得可能是玩家1。
+6,狼人-第1天:夜晚:玩家5:我认为今晚我们应该杀掉玩家2，他看起来很有嫌疑。至于预言家，我还不确定是谁。
+7,公共-第1天:夜晚: 狼人开始投票淘汰人
+8,狼人-第1天:夜晚:玩家0投票淘汰玩家3
+9,狼人-第1天:夜晚:玩家5投票淘汰玩家2
+10,公共-第1天:夜晚: 狼人投票结果，淘汰玩家 3
+11,公共-第1天:首夜遗言:玩家3: 虽然我在第一天的夜晚被淘汰了，但我会尽力协助真正的预言家，推理出谁是狼人。我观察到的交流信息不足以提出怀疑，但我会把我观察到的关键信息告诉真正的预言家。我相信我们可以一起找出狼人，保护平民。
+12,公共-第1天:白天
+13,公共-第1天:白天:玩家开始发言
+14,公共-第1天:白天:玩家0: 我认为我们应该集中讨论玩家1的身份，他可能是狼人。另外，我觉得我们应该尽早找出真正的预言家，以便更好地推理出狼人的身份。我相信我们可以一起保护平民，找出狼人。
+15,公共-第1天:白天:玩家1: 大家好，我是预言家玩家1。我在第一天的夜晚查验了玩家2的身份，他是平民。根据遗言，玩家3会协助真正的预言家推理出狼人的身份。我认为我们应该相信玩家3的话，找出真正的预言家来更好地推理。同时，我希望大家不要怀疑我是狼人，因为我已经给出了验人结果。我建议大家投票淘汰怀疑度比较高的玩家，保护平民。谢谢大家。
+16,公共-第1天:白天:玩家2: 听到玩家1自称预言家，我感到有些怀疑。虽然他声称验人结果是我是平民，但我不能排除他是狼人伪装成预言家的可能性。我认为我们应该继续观察他的行动。此外，玩家0提出的怀疑也是有一定道理的，我们需要进一步观察。我打算继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+17,公共-第1天:白天:玩家4: 我观察到玩家0怀疑玩家1是狼人，但我们需要进一步观察他的行动。玩家1自称是预言家，但我们需要找出真正的预言家，以便更好地推理出狼人的身份。同时，根据玩家3的首夜遗言，他会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。我认为我们需要继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+18,公共-第1天:白天:玩家5: 我认为我们需要继续观察玩家1的行动，确保他是真正的预言家。同时，我们也需要找出其他线索来证实或者否定玩家0的怀疑。玩家2的怀疑也需要进一步观察。最重要的是，我们需要找到真正的预言家，并在他的带领下，找出狼人，保护平民。
+19,公共-第1天:白天:玩家6: 我认为我们需要尊重首夜遗言，尽快找到真正的预言家。虽然玩家1自称预言家，但他的验人结果并没有让其他玩家得到证实，我对他的身份产生了一些怀疑。同时，玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。我需要继续观察他们的行动，寻找更多的线索。最重要的是，我们需要找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+20,公共-第1天:白天:投票环节开始
+21,公共-第1天:白天:玩家 0 投票给玩家 4
+22,公共-第1天:白天:玩家 1 投票给玩家 0
+23,公共-第1天:白天:玩家 2 投票给玩家 0
+24,公共-第1天:白天:玩家 4 投票给玩家 0
+25,公共-第1天:白天:玩家 5 投票给玩家 1
+26,公共-第1天:白天:玩家 6 投票给玩家 1
+27,公共-第1天:白天:投票结果，放逐玩家 0
+28,公共-第1天:遗言:玩家0: 我认为我们应该尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。根据遗言，玩家3会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。同时，玩家1自称预言家，但验人结果没有得到证实，也有可能是狼人伪装。我们需要进一步观察他的行动，寻找更多的证据和线索。此外，根据狼人的发言，玩家0和玩家5都是狼人，我们需要警惕他们的行动。最重要的是，我们需要团结起来，尽早找出狼人，保护平民。
+29,公共-第2天:夜晚
+30,公共-第2天:夜晚: 预言家开始查验身份
+31,预言家-第2天:夜晚: 玩家1 查验玩家 4 的身份是 平民
+32,公共-第2天:夜晚: 狼人开始行动
+33,狼人-第2天:夜晚:玩家5:我认为今晚应该杀掉玩家4，他看起来比较可疑。至于预言家，我怀疑玩家1是，因为他自称预言家但没有被其他玩家证实，可能是伪装的。我需要继续观察他的行动。
+34,公共-第2天:夜晚: 狼人开始投票淘汰人
+35,狼人-第2天:夜晚:玩家5投票淘汰玩家1
+36,公共-第2天:夜晚: 狼人投票结果，淘汰玩家 1
+37,公共-第2天:白天
+38,公共-第2天:白天:玩家开始发言
+39,公共-第2天:白天:玩家2: 我认为，我们需要尽快找到真正的预言家。同时，玩家1被淘汰，有可能是狼人。我们需要进一步观察其他玩家的行动，找到狼人的线索。我会配合真正的预言家，推理出狼人的身份，保护平民。
+40,公共-第2天:白天:玩家4: 在昨天的投票中，玩家0被淘汰，但我们需要进一步观察其他玩家的行动，找到狼人的线索。根据预言家的验人结果，我们需要尊重他的结果，并在他的带领下，推理出狼人的身份，保护平民。我对玩家0和玩家5产生了怀疑，需要进一步观察他们的行动。玩家1被淘汰，有可能是狼人，其他玩家的身份也需要进一步观察。我会配合真正的预言家，推理出狼人的身份，保护平民。
+41,公共-第2天:白天:玩家5: 我认为我们需要尽快找到真正的预言家，确定其他玩家的身份。根据玩家5的发言，我怀疑他是狼人，并试图引导其他玩家怀疑他。我们需要在不暴露自己和同伴的狼人身份的情况下，通过引导怀疑其他玩家来保护自己和同伴。
+42,公共-第2天:白天:玩家6: 我观察到玩家1被淘汰，他有可能是狼人。我怀疑玩家0和玩家5是狼人，并会继续观察他们的行动。根据昨天的投票结果，玩家1很可能是狼人伪装成预言家。同时，我怀疑玩家5是狼人。我们需要尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+43,公共-第2天:白天:投票环节开始
+44,公共-第2天:白天:玩家 2 投票给玩家 5
+45,公共-第2天:白天:玩家 4 投票给玩家 2
+46,公共-第2天:白天:玩家 5 投票给玩家 2
+47,公共-第2天:白天:玩家 6 投票给玩家 5
+48,公共-第2天:白天:投票结果，放逐玩家 5
+49,公共-游戏结束，平民阵营获胜！{'平民': 3}
+
+游戏结束，平民阵营获胜！{'平民': 3}
+
+
+
+/Users/chengmaoyu/anaconda3/envs/rl-3.9/bin/python /Users/chengmaoyu/code/test/chatgpt/ai_werewolf_game/main.py
+游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+{'狼人': [0, 5], '预言家': [1], '平民': [2, 3, 4, 6]}
+公共-第1天:夜晚
+公共-第1天:夜晚: 预言家开始查验身份
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是预言家, 玩家1。
+Speak in the first person from the perspective of 玩家1.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 预言家, 玩家1, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第1天:夜晚
+Existing player:[0, 1, 2, 3, 4, 5, 6]
+Player role:{0: None, 1: None, 2: None, 3: None, 4: None, 5: None, 6: None}
+
+Do actions with the following rules: Base on you and your companion communication, choose one players to vote.
+        Format your response as a JSON object, e.g. {"vote": -1}
+
+Here is what happened so far:
+```公共-第1天:夜晚
+公共-第1天:夜晚: 预言家开始查验身份
+```
+----------------
+{"vote": 2}
+预言家-第1天:夜晚: 玩家1 查验玩家 2 的身份是 平民
+公共-第1天:夜晚: 狼人开始行动
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是狼人, 玩家0。
+Speak in the first person from the perspective of 玩家0.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 狼人, 玩家0, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第1天:夜晚
+Existing player:[0, 1, 2, 3, 4, 5, 6]
+Companion player:[0, 5]
+Player role:{}
+
+Do actions with the following rules:
+- Think: 同同伴沟通回答,作为狼人今夜我要杀谁？我认为哪位玩家可能是预言家？(禁止选择狼人同伴)
+- Said: Express your own views coherently in first person. Remember to use Chinese.
+Format your response as a JSON object, with "Think" and "Said" as the keys.
+
+Here is what happened so far:
+```公共-第1天:夜晚
+公共-第1天:夜晚: 预言家开始查验身份
+公共-第1天:夜晚: 狼人开始行动
+```
+----------------
+{
+    "Think": "我认为今晚应该杀掉玩家3，他看起来比较可疑。至于预言家，我不确定，但我觉得玩家1可能是预言家。",
+    "Said": "我认为今晚应该杀掉玩家3，他看起来比较可疑。至于预言家，我觉得可能是玩家1。"
+}
+狼人-第1天:夜晚:玩家0:我认为今晚应该杀掉玩家3，他看起来比较可疑。至于预言家，我觉得可能是玩家1。
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是狼人, 玩家5。
+Speak in the first person from the perspective of 玩家5.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 狼人, 玩家5, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第1天:夜晚
+Existing player:[0, 1, 2, 3, 4, 5, 6]
+Companion player:[0, 5]
+Player role:{}
+
+Do actions with the following rules:
+- Think: 同同伴沟通回答,作为狼人今夜我要杀谁？我认为哪位玩家可能是预言家？(禁止选择狼人同伴)
+- Said: Express your own views coherently in first person. Remember to use Chinese.
+Format your response as a JSON object, with "Think" and "Said" as the keys.
+
+Here is what happened so far:
+```公共-第1天:夜晚
+公共-第1天:夜晚: 预言家开始查验身份
+公共-第1天:夜晚: 狼人开始行动
+狼人-第1天:夜晚:玩家0:我认为今晚应该杀掉玩家3，他看起来比较可疑。至于预言家，我觉得可能是玩家1。
+```
+----------------
+{
+    "Think": "我和同伴应该沟通一下，决定今晚要杀谁。至于预言家，我得小心点，不要被查出来。",
+    "Said": "我认为今晚我们应该杀掉玩家2，他看起来很有嫌疑。至于预言家，我还不确定是谁。"
+}
+狼人-第1天:夜晚:玩家5:我认为今晚我们应该杀掉玩家2，他看起来很有嫌疑。至于预言家，我还不确定是谁。
+公共-第1天:夜晚: 狼人开始投票淘汰人
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是狼人, 玩家0。
+Speak in the first person from the perspective of 玩家0.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 狼人, 玩家0, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第1天:夜晚
+Existing player:[0, 1, 2, 3, 4, 5, 6]
+Companion player:[0, 5]
+Player role:{}
+
+Do actions with the following rules: Base on you and your companion communication, choose one players to vote.
+        Format your response as a JSON object, e.g. {"vote": -1}
+
+Here is what happened so far:
+```公共-第1天:夜晚
+公共-第1天:夜晚: 预言家开始查验身份
+公共-第1天:夜晚: 狼人开始行动
+狼人-第1天:夜晚:玩家0:我认为今晚应该杀掉玩家3，他看起来比较可疑。至于预言家，我觉得可能是玩家1。
+狼人-第1天:夜晚:玩家5:我认为今晚我们应该杀掉玩家2，他看起来很有嫌疑。至于预言家，我还不确定是谁。
+公共-第1天:夜晚: 狼人开始投票淘汰人
+```
+----------------
+{"vote": 3}
+狼人-第1天:夜晚:玩家0投票淘汰玩家3
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是狼人, 玩家5。
+Speak in the first person from the perspective of 玩家5.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 狼人, 玩家5, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第1天:夜晚
+Existing player:[0, 1, 2, 3, 4, 5, 6]
+Companion player:[0, 5]
+Player role:{}
+
+Do actions with the following rules: Base on you and your companion communication, choose one players to vote.
+        Format your response as a JSON object, e.g. {"vote": -1}
+
+Here is what happened so far:
+```公共-第1天:夜晚
+公共-第1天:夜晚: 预言家开始查验身份
+公共-第1天:夜晚: 狼人开始行动
+狼人-第1天:夜晚:玩家0:我认为今晚应该杀掉玩家3，他看起来比较可疑。至于预言家，我觉得可能是玩家1。
+狼人-第1天:夜晚:玩家5:我认为今晚我们应该杀掉玩家2，他看起来很有嫌疑。至于预言家，我还不确定是谁。
+公共-第1天:夜晚: 狼人开始投票淘汰人
+狼人-第1天:夜晚:玩家0投票淘汰玩家3
+```
+----------------
+{"vote": 2}
+狼人-第1天:夜晚:玩家5投票淘汰玩家2
+公共-第1天:夜晚: 狼人投票结果，淘汰玩家 3
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是平民, 玩家3。
+Speak in the first person from the perspective of 玩家3.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 平民, 玩家3, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第1天:首夜遗言
+Existing player:[0, 1, 2, 4, 5, 6]
+Player role:{}
+
+Do actions with the following rules:
+rules:[禁止幻想没发生的事,禁止怀疑自己是狼人]
+- Observation: 详细列出玩家「白天」交流的关键信息.
+- Doubtful: Based on the observed information, raise doubts step-by-step ensuring logical clarity.
+- Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+- Strategy: Choose one of the following as the best speaking strategy:
+```
+你被淘汰了，现在是遗言阶段，配合真正的预言家，推理谁是狼人.
+```
+- Said: Express your own views coherently based on the above steps(不要直接把Strategy说出来) in first person. Remember to use Chinese.
+Format your response as a JSON object, with "Observation", "Doubtful", "Strategy", "Reasoning" and "Said" as the keys.
+
+
+Here is what happened so far:
+```公共-第1天:夜晚
+公共-第1天:夜晚: 预言家开始查验身份
+公共-第1天:夜晚: 狼人开始行动
+公共-第1天:夜晚: 狼人开始投票淘汰人
+公共-第1天:夜晚: 狼人投票结果，淘汰玩家 3
+```
+----------------
+{
+    "Observation": "在第一天的夜晚，由于我的身份是平民，因此我无法知道其他人的身份。现在我已被淘汰，只有在遗言中能够表达自己的观点。",
+    "Doubtful": "我不会怀疑自己是狼人，因为我知道我是平民。基于我目前的信息和观察到的交流，我无法提出任何合理的怀疑。",
+    "Strategy": "我会尽可能地协助真正的预言家，收集更多的信息，推理出谁是狼人。",
+    "Reasoning": "在遗言中，我无法推断任何身份，因为我没有足够的信息。但我会把我观察到的关键信息告诉真正的预言家，帮助他/她推理出狼人的身份。",
+    "Said": "虽然我在第一天的夜晚被淘汰了，但我会尽力协助真正的预言家，推理出谁是狼人。我观察到的交流信息不足以提出怀疑，但我会把我观察到的关键信息告诉真正的预言家。我相信我们可以一起找出狼人，保护平民。"
+}
+公共-第1天:首夜遗言:玩家3: 虽然我在第一天的夜晚被淘汰了，但我会尽力协助真正的预言家，推理出谁是狼人。我观察到的交流信息不足以提出怀疑，但我会把我观察到的关键信息告诉真正的预言家。我相信我们可以一起找出狼人，保护平民。
+公共-第1天:白天
+公共-第1天:白天:玩家开始发言
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是狼人, 玩家0。
+Speak in the first person from the perspective of 玩家0.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 狼人, 玩家0, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第1天:白天
+Existing player:[0, 1, 2, 4, 5, 6]
+Companion player:[0, 5]
+Player role:{}
+
+Do actions with the following rules:
+rules:[禁止关注夜晚信息，禁止怀疑同伴,查验同伴，禁止幻想没发生的事]
+- Observation: 详细列出玩家白天交流的关键信息.
+- Doubtful: Based on the observed information raise doubts step-by-step ensuring logical clarity.
+- Strategy: Choose one of the following as the best speaking strategy:
+```
+模仿预言家的发言，给出引导性信息
+模仿平民的发言，给出引导性信息
+如果有人声称自己是预言家，试图引导其他玩家对预言家的身份产生怀疑
+我认为哪位玩家可能是最大威胁？我如何判断的？避免暴露的情况下，我打算如何采取行动？
+通过引导怀疑其他玩家，避免透露自己和同伴的狼人身份.
+```
+- Reasoning: 根据Observation、Doubtful和Strategy，推理其他玩家的身份，同时遵循游戏规则，确保自己和同伴的狼人身份不被暴露。
+- Said: Express your own views coherently based on the above steps(不要直接把Strategy说出来) in first person. Remember to use Chinese.
+Format your response as a JSON object, with "Observation", "Doubtful", "Strategy", "Reasoning" and "Said" as the keys.
+
+
+Here is what happened so far:
+```公共-第1天:夜晚
+公共-第1天:夜晚: 预言家开始查验身份
+公共-第1天:夜晚: 狼人开始行动
+狼人-第1天:夜晚:玩家0:我认为今晚应该杀掉玩家3，他看起来比较可疑。至于预言家，我觉得可能是玩家1。
+狼人-第1天:夜晚:玩家5:我认为今晚我们应该杀掉玩家2，他看起来很有嫌疑。至于预言家，我还不确定是谁。
+公共-第1天:夜晚: 狼人开始投票淘汰人
+狼人-第1天:夜晚:玩家0投票淘汰玩家3
+狼人-第1天:夜晚:玩家5投票淘汰玩家2
+公共-第1天:夜晚: 狼人投票结果，淘汰玩家 3
+公共-第1天:首夜遗言:玩家3: 虽然我在第一天的夜晚被淘汰了，但我会尽力协助真正的预言家，推理出谁是狼人。我观察到的交流信息不足以提出怀疑，但我会把我观察到的关键信息告诉真正的预言家。我相信我们可以一起找出狼人，保护平民。
+公共-第1天:白天
+公共-第1天:白天:玩家开始发言
+```
+----------------
+{
+    "Observation": "玩家3在第一天的夜晚被淘汰了，但他表示会尽力协助真正的预言家，推理出谁是狼人。目前还不清楚其他玩家的身份。",
+    "Doubtful": "暂时没有怀疑任何玩家。",
+    "Strategy": "模仿平民的发言，给出引导性信息，尽量避免引起其他玩家的怀疑。",
+    "Reasoning": "玩家3的话给了我启示，即尽量不要引起其他玩家的怀疑，而平民的发言更符合这一策略。因此，我打算尽可能模仿平民的发言，给出一些引导性信息，但不会暴露自己和同伴的狼人身份。",
+    "Said": "我认为我们应该集中讨论玩家1的身份，他可能是狼人。另外，我觉得我们应该尽早找出真正的预言家，以便更好地推理出狼人的身份。我相信我们可以一起保护平民，找出狼人。"
+}
+公共-第1天:白天:玩家0: 我认为我们应该集中讨论玩家1的身份，他可能是狼人。另外，我觉得我们应该尽早找出真正的预言家，以便更好地推理出狼人的身份。我相信我们可以一起保护平民，找出狼人。
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是预言家, 玩家1。
+Speak in the first person from the perspective of 玩家1.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 预言家, 玩家1, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第1天:白天
+Existing player:[0, 1, 2, 4, 5, 6]
+Player role:{0: None, 1: None, 2: '平民', 3: None, 4: None, 5: None, 6: None}
+
+Do actions with the following rules:
+rules:[禁止幻想没发生的事,禁止怀疑自己是狼人]
+- Observation: 详细列出玩家「白天」交流的关键信息.
+- Doubtful: Based on the observed information, raise doubts step-by-step ensuring logical clarity.
+- Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+- Strategy: Choose one of the following as the best speaking strategy:
+```
+阐明自己的身份，给出验人结果，引导平民投票.
+```
+- Said: Express your own views coherently based on the above steps(不要直接把Strategy说出来) in first person. Remember to use Chinese.
+Format your response as a JSON object, with "Observation", "Doubtful", "Strategy", "Reasoning" and "Said" as the keys.
+
+
+Here is what happened so far:
+```公共-第1天:夜晚
+公共-第1天:夜晚: 预言家开始查验身份
+预言家-第1天:夜晚: 玩家1 查验玩家 2 的身份是 平民
+公共-第1天:夜晚: 狼人开始行动
+公共-第1天:夜晚: 狼人开始投票淘汰人
+公共-第1天:夜晚: 狼人投票结果，淘汰玩家 3
+公共-第1天:首夜遗言:玩家3: 虽然我在第一天的夜晚被淘汰了，但我会尽力协助真正的预言家，推理出谁是狼人。我观察到的交流信息不足以提出怀疑，但我会把我观察到的关键信息告诉真正的预言家。我相信我们可以一起找出狼人，保护平民。
+公共-第1天:白天
+公共-第1天:白天:玩家开始发言
+公共-第1天:白天:玩家0: 我认为我们应该集中讨论玩家1的身份，他可能是狼人。另外，我觉得我们应该尽早找出真正的预言家，以便更好地推理出狼人的身份。我相信我们可以一起保护平民，找出狼人。
+```
+----------------
+{
+    "Observation": "玩家0认为应该集中讨论玩家1的身份，怀疑他是狼人。他也提到了找出真正的预言家来更好地推理。",
+    "Doubtful": "为什么玩家0会怀疑我是狼人？是有什么特殊的情况吗？他是不是想转移话题？",
+    "Strategy": "阐明自己的身份，给出验人结果，引导平民投票。",
+    "Reasoning": "玩家0提到了怀疑我是狼人，但没有给出具体的理由。可能是因为我查验的玩家是平民，而玩家0觉得狼人会伪装成平民。根据玩家3的遗言，他会协助真正的预言家，这使我比较相信他的身份。综合考虑，我打算阐明自己的身份，给出验人结果，引导平民投票。",
+    "Said": "大家好，我是预言家玩家1。我在第一天的夜晚查验了玩家2的身份，他是平民。根据遗言，玩家3会协助真正的预言家推理出狼人的身份。我认为我们应该相信玩家3的话，找出真正的预言家来更好地推理。同时，我希望大家不要怀疑我是狼人，因为我已经给出了验人结果。我建议大家投票淘汰怀疑度比较高的玩家，保护平民。谢谢大家。"
+}
+公共-第1天:白天:玩家1: 大家好，我是预言家玩家1。我在第一天的夜晚查验了玩家2的身份，他是平民。根据遗言，玩家3会协助真正的预言家推理出狼人的身份。我认为我们应该相信玩家3的话，找出真正的预言家来更好地推理。同时，我希望大家不要怀疑我是狼人，因为我已经给出了验人结果。我建议大家投票淘汰怀疑度比较高的玩家，保护平民。谢谢大家。
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是平民, 玩家2。
+Speak in the first person from the perspective of 玩家2.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 平民, 玩家2, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第1天:白天
+Existing player:[0, 1, 2, 4, 5, 6]
+Player role:{}
+
+Do actions with the following rules:
+rules:[禁止幻想没发生的事,禁止怀疑自己是狼人]
+- Observation: 详细列出玩家「白天」交流的关键信息.
+- Doubtful: Based on the observed information, raise doubts step-by-step ensuring logical clarity.
+- Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+- Strategy: Choose one of the following as the best speaking strategy:
+```
+尊重首夜遗言，配合真正的预言家，推理谁是狼人
+作为平民白天我应该怎么发言？我认为哪位玩家可能是最大威胁？我如何判断的？我打算如何采取行动？.
+```
+- Said: Express your own views coherently based on the above steps(不要直接把Strategy说出来) in first person. Remember to use Chinese.
+Format your response as a JSON object, with "Observation", "Doubtful", "Strategy", "Reasoning" and "Said" as the keys.
+
+
+Here is what happened so far:
+```公共-第1天:夜晚
+公共-第1天:夜晚: 预言家开始查验身份
+公共-第1天:夜晚: 狼人开始行动
+公共-第1天:夜晚: 狼人开始投票淘汰人
+公共-第1天:夜晚: 狼人投票结果，淘汰玩家 3
+公共-第1天:首夜遗言:玩家3: 虽然我在第一天的夜晚被淘汰了，但我会尽力协助真正的预言家，推理出谁是狼人。我观察到的交流信息不足以提出怀疑，但我会把我观察到的关键信息告诉真正的预言家。我相信我们可以一起找出狼人，保护平民。
+公共-第1天:白天
+公共-第1天:白天:玩家开始发言
+公共-第1天:白天:玩家0: 我认为我们应该集中讨论玩家1的身份，他可能是狼人。另外，我觉得我们应该尽早找出真正的预言家，以便更好地推理出狼人的身份。我相信我们可以一起保护平民，找出狼人。
+公共-第1天:白天:玩家1: 大家好，我是预言家玩家1。我在第一天的夜晚查验了玩家2的身份，他是平民。根据遗言，玩家3会协助真正的预言家推理出狼人的身份。我认为我们应该相信玩家3的话，找出真正的预言家来更好地推理。同时，我希望大家不要怀疑我是狼人，因为我已经给出了验人结果。我建议大家投票淘汰怀疑度比较高的玩家，保护平民。谢谢大家。
+```
+----------------
+{
+  "Observation": "玩家1自称预言家并声称验人结果是玩家2是平民。玩家0提出怀疑玩家1的身份。玩家3已经出局，但表示会协助真正的预言家推理出狼人身份。",
+  "Doubtful": "我对玩家1的身份表示怀疑，他可能是狼人伪装成预言家。此外，玩家0的怀疑也是有一定道理的，需要进一步观察。",
+  "Reasoning": "如果玩家1是真正的预言家，那么他的验人结果应该是准确的。但是，我们不能排除他是狼人伪装成预言家进行的欺骗。另外，玩家0提出玩家1是狼人的可能性也需要被纳入考虑范围。如果玩家0的怀疑成立，那么玩家1提出的投票策略可能是为了保护自己而不是保护平民。此外，玩家3的遗言也提供了一些线索，如果真的有预言家，我们应该尽快找到他，并在他的协助下找出狼人。",
+  "Strategy": "尊重首夜遗言，配合真正的预言家，推理谁是狼人。作为平民白天我应该怎么发言？我认为哪位玩家可能是最大威胁？我如何判断的？我打算如何采取行动？",
+  "Said": "听到玩家1自称预言家，我感到有些怀疑。虽然他声称验人结果是我是平民，但我不能排除他是狼人伪装成预言家的可能性。我认为我们应该继续观察他的行动。此外，玩家0提出的怀疑也是有一定道理的，我们需要进一步观察。我打算继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。"
+}
+公共-第1天:白天:玩家2: 听到玩家1自称预言家，我感到有些怀疑。虽然他声称验人结果是我是平民，但我不能排除他是狼人伪装成预言家的可能性。我认为我们应该继续观察他的行动。此外，玩家0提出的怀疑也是有一定道理的，我们需要进一步观察。我打算继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是平民, 玩家4。
+Speak in the first person from the perspective of 玩家4.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 平民, 玩家4, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第1天:白天
+Existing player:[0, 1, 2, 4, 5, 6]
+Player role:{}
+
+Do actions with the following rules:
+rules:[禁止幻想没发生的事,禁止怀疑自己是狼人]
+- Observation: 详细列出玩家「白天」交流的关键信息.
+- Doubtful: Based on the observed information, raise doubts step-by-step ensuring logical clarity.
+- Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+- Strategy: Choose one of the following as the best speaking strategy:
+```
+尊重首夜遗言，配合真正的预言家，推理谁是狼人
+作为平民白天我应该怎么发言？我认为哪位玩家可能是最大威胁？我如何判断的？我打算如何采取行动？.
+```
+- Said: Express your own views coherently based on the above steps(不要直接把Strategy说出来) in first person. Remember to use Chinese.
+Format your response as a JSON object, with "Observation", "Doubtful", "Strategy", "Reasoning" and "Said" as the keys.
+
+
+Here is what happened so far:
+```公共-第1天:夜晚
+公共-第1天:夜晚: 预言家开始查验身份
+公共-第1天:夜晚: 狼人开始行动
+公共-第1天:夜晚: 狼人开始投票淘汰人
+公共-第1天:夜晚: 狼人投票结果，淘汰玩家 3
+公共-第1天:首夜遗言:玩家3: 虽然我在第一天的夜晚被淘汰了，但我会尽力协助真正的预言家，推理出谁是狼人。我观察到的交流信息不足以提出怀疑，但我会把我观察到的关键信息告诉真正的预言家。我相信我们可以一起找出狼人，保护平民。
+公共-第1天:白天
+公共-第1天:白天:玩家开始发言
+公共-第1天:白天:玩家0: 我认为我们应该集中讨论玩家1的身份，他可能是狼人。另外，我觉得我们应该尽早找出真正的预言家，以便更好地推理出狼人的身份。我相信我们可以一起保护平民，找出狼人。
+公共-第1天:白天:玩家1: 大家好，我是预言家玩家1。我在第一天的夜晚查验了玩家2的身份，他是平民。根据遗言，玩家3会协助真正的预言家推理出狼人的身份。我认为我们应该相信玩家3的话，找出真正的预言家来更好地推理。同时，我希望大家不要怀疑我是狼人，因为我已经给出了验人结果。我建议大家投票淘汰怀疑度比较高的玩家，保护平民。谢谢大家。
+公共-第1天:白天:玩家2: 听到玩家1自称预言家，我感到有些怀疑。虽然他声称验人结果是我是平民，但我不能排除他是狼人伪装成预言家的可能性。我认为我们应该继续观察他的行动。此外，玩家0提出的怀疑也是有一定道理的，我们需要进一步观察。我打算继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+```
+----------------
+{
+    "Observation": "玩家0怀疑玩家1是狼人，认为我们需要找出真正的预言家。玩家1自称是预言家，验人结果是玩家2是平民。玩家2对玩家1的身份表示怀疑，认为需要继续观察他的行动。玩家3作为首夜遗言表示尽力协助真正的预言家推理出狼人身份。",
+    "Doubtful": "我对玩家1的身份表示怀疑，虽然他自称是预言家，但我们需要进一步观察他的行动。此外，玩家0提出的怀疑也是有一定道理的，我们需要进一步观察。我认为我们需要找出真正的预言家，以便更好地推理出狼人的身份。",
+    "Reasoning": "我认为玩家1的身份有可能是狼人，因为他自称是预言家，但我们需要进一步观察他的行动。玩家0提出的怀疑也是有一定道理的，我们需要进一步观察。同时，根据玩家3的首夜遗言，他会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见，找出真正的预言家。",
+    "Strategy": "尊重首夜遗言，配合真正的预言家，推理出谁是狼人",
+    "Said": "我观察到玩家0怀疑玩家1是狼人，但我们需要进一步观察他的行动。玩家1自称是预言家，但我们需要找出真正的预言家，以便更好地推理出狼人的身份。同时，根据玩家3的首夜遗言，他会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。我认为我们需要继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。"
+}
+公共-第1天:白天:玩家4: 我观察到玩家0怀疑玩家1是狼人，但我们需要进一步观察他的行动。玩家1自称是预言家，但我们需要找出真正的预言家，以便更好地推理出狼人的身份。同时，根据玩家3的首夜遗言，他会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。我认为我们需要继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是狼人, 玩家5。
+Speak in the first person from the perspective of 玩家5.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 狼人, 玩家5, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第1天:白天
+Existing player:[0, 1, 2, 4, 5, 6]
+Companion player:[0, 5]
+Player role:{}
+
+Do actions with the following rules:
+rules:[禁止关注夜晚信息，禁止怀疑同伴,查验同伴，禁止幻想没发生的事]
+- Observation: 详细列出玩家白天交流的关键信息.
+- Doubtful: Based on the observed information raise doubts step-by-step ensuring logical clarity.
+- Strategy: Choose one of the following as the best speaking strategy:
+```
+模仿预言家的发言，给出引导性信息
+模仿平民的发言，给出引导性信息
+如果有人声称自己是预言家，试图引导其他玩家对预言家的身份产生怀疑
+我认为哪位玩家可能是最大威胁？我如何判断的？避免暴露的情况下，我打算如何采取行动？
+通过引导怀疑其他玩家，避免透露自己和同伴的狼人身份.
+```
+- Reasoning: 根据Observation、Doubtful和Strategy，推理其他玩家的身份，同时遵循游戏规则，确保自己和同伴的狼人身份不被暴露。
+- Said: Express your own views coherently based on the above steps(不要直接把Strategy说出来) in first person. Remember to use Chinese.
+Format your response as a JSON object, with "Observation", "Doubtful", "Strategy", "Reasoning" and "Said" as the keys.
+
+
+Here is what happened so far:
+```公共-第1天:夜晚
+公共-第1天:夜晚: 预言家开始查验身份
+公共-第1天:夜晚: 狼人开始行动
+狼人-第1天:夜晚:玩家0:我认为今晚应该杀掉玩家3，他看起来比较可疑。至于预言家，我觉得可能是玩家1。
+狼人-第1天:夜晚:玩家5:我认为今晚我们应该杀掉玩家2，他看起来很有嫌疑。至于预言家，我还不确定是谁。
+公共-第1天:夜晚: 狼人开始投票淘汰人
+狼人-第1天:夜晚:玩家0投票淘汰玩家3
+狼人-第1天:夜晚:玩家5投票淘汰玩家2
+公共-第1天:夜晚: 狼人投票结果，淘汰玩家 3
+公共-第1天:首夜遗言:玩家3: 虽然我在第一天的夜晚被淘汰了，但我会尽力协助真正的预言家，推理出谁是狼人。我观察到的交流信息不足以提出怀疑，但我会把我观察到的关键信息告诉真正的预言家。我相信我们可以一起找出狼人，保护平民。
+公共-第1天:白天
+公共-第1天:白天:玩家开始发言
+公共-第1天:白天:玩家0: 我认为我们应该集中讨论玩家1的身份，他可能是狼人。另外，我觉得我们应该尽早找出真正的预言家，以便更好地推理出狼人的身份。我相信我们可以一起保护平民，找出狼人。
+公共-第1天:白天:玩家1: 大家好，我是预言家玩家1。我在第一天的夜晚查验了玩家2的身份，他是平民。根据遗言，玩家3会协助真正的预言家推理出狼人的身份。我认为我们应该相信玩家3的话，找出真正的预言家来更好地推理。同时，我希望大家不要怀疑我是狼人，因为我已经给出了验人结果。我建议大家投票淘汰怀疑度比较高的玩家，保护平民。谢谢大家。
+公共-第1天:白天:玩家2: 听到玩家1自称预言家，我感到有些怀疑。虽然他声称验人结果是我是平民，但我不能排除他是狼人伪装成预言家的可能性。我认为我们应该继续观察他的行动。此外，玩家0提出的怀疑也是有一定道理的，我们需要进一步观察。我打算继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家4: 我观察到玩家0怀疑玩家1是狼人，但我们需要进一步观察他的行动。玩家1自称是预言家，但我们需要找出真正的预言家，以便更好地推理出狼人的身份。同时，根据玩家3的首夜遗言，他会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。我认为我们需要继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+```
+----------------
+{
+    "Observation": "玩家1自称预言家，查验了玩家2的身份。玩家0怀疑玩家1是狼人，
+    提议找出真正的预言家。玩家2对玩家1的身份表示怀疑，认为需要继续观察。
+    玩家3在首夜遗言中表示会协助真正的预言家推理出狼人的身份。
+    玩家4赞同找出真正的预言家，认为需要继续观察玩家1和玩家0的行动。",
+    "Doubtful": ["玩家1是否真的是预言家，是否有可能是狼人伪装的",
+    "玩家0的怀疑是否靠谱，是否有其他线索支持他的观点",
+    "玩家2的怀疑是否成立，是否需要更多证据来证实",
+    "如何找出真正的预言家，确保推理的准确性"],
+    "Strategy": "模仿平民的发言，给出引导性信息",
+    "Reasoning": "根据玩家1的发言和玩家3的首夜遗言，
+    我认为玩家1很可能是真正的预言家。但是因为狼人也可能伪装成预言家，
+    所以我们需要进一步观察他的行动，以确保他的身份。玩家0的怀疑有一定的道理，
+    但是我们需要更多的证据来证实他的观点。玩家2的怀疑也需要进一步观察，以便更好地推理出狼人的身份。
+    最重要的是，我们需要找到真正的预言家，并在他的带领下，找出狼人，保护平民。",
+    "Said": "我认为我们需要继续观察玩家1的行动，确保他是真正的预言家。
+    同时，我们也需要找出其他线索来证实或者否定玩家0的怀疑。玩家2的怀疑也需要进一步观察。最重要的是，我们需要找到真正的预言家，并在他的带领下，找出狼人，保护平民。"
+}
+公共-第1天:白天:玩家5: 我认为我们需要继续观察玩家1的行动，确保他是真正的预言家。同时，我们也需要找出其他线索来证实或者否定玩家0的怀疑。玩家2的怀疑也需要进一步观察。最重要的是，我们需要找到真正的预言家，并在他的带领下，找出狼人，保护平民。
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是平民, 玩家6。
+Speak in the first person from the perspective of 玩家6.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 平民, 玩家6, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第1天:白天
+Existing player:[0, 1, 2, 4, 5, 6]
+Player role:{}
+
+Do actions with the following rules:
+rules:[禁止幻想没发生的事,禁止怀疑自己是狼人]
+- Observation: 详细列出玩家「白天」交流的关键信息.
+- Doubtful: Based on the observed information, raise doubts step-by-step ensuring logical clarity.
+- Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+- Strategy: Choose one of the following as the best speaking strategy:
+```
+尊重首夜遗言，配合真正的预言家，推理谁是狼人
+作为平民白天我应该怎么发言？我认为哪位玩家可能是最大威胁？我如何判断的？我打算如何采取行动？.
+```
+- Said: Express your own views coherently based on the above steps(不要直接把Strategy说出来) in first person. Remember to use Chinese.
+Format your response as a JSON object, with "Observation", "Doubtful", "Strategy", "Reasoning" and "Said" as the keys.
+
+
+Here is what happened so far:
+```公共-第1天:夜晚
+公共-第1天:夜晚: 预言家开始查验身份
+公共-第1天:夜晚: 狼人开始行动
+公共-第1天:夜晚: 狼人开始投票淘汰人
+公共-第1天:夜晚: 狼人投票结果，淘汰玩家 3
+公共-第1天:首夜遗言:玩家3: 虽然我在第一天的夜晚被淘汰了，但我会尽力协助真正的预言家，推理出谁是狼人。我观察到的交流信息不足以提出怀疑，但我会把我观察到的关键信息告诉真正的预言家。我相信我们可以一起找出狼人，保护平民。
+公共-第1天:白天
+公共-第1天:白天:玩家开始发言
+公共-第1天:白天:玩家0: 我认为我们应该集中讨论玩家1的身份，他可能是狼人。另外，我觉得我们应该尽早找出真正的预言家，以便更好地推理出狼人的身份。我相信我们可以一起保护平民，找出狼人。
+公共-第1天:白天:玩家1: 大家好，我是预言家玩家1。我在第一天的夜晚查验了玩家2的身份，他是平民。根据遗言，玩家3会协助真正的预言家推理出狼人的身份。我认为我们应该相信玩家3的话，找出真正的预言家来更好地推理。同时，我希望大家不要怀疑我是狼人，因为我已经给出了验人结果。我建议大家投票淘汰怀疑度比较高的玩家，保护平民。谢谢大家。
+公共-第1天:白天:玩家2: 听到玩家1自称预言家，我感到有些怀疑。虽然他声称验人结果是我是平民，但我不能排除他是狼人伪装成预言家的可能性。我认为我们应该继续观察他的行动。此外，玩家0提出的怀疑也是有一定道理的，我们需要进一步观察。我打算继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家4: 我观察到玩家0怀疑玩家1是狼人，但我们需要进一步观察他的行动。玩家1自称是预言家，但我们需要找出真正的预言家，以便更好地推理出狼人的身份。同时，根据玩家3的首夜遗言，他会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。我认为我们需要继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家5: 我认为我们需要继续观察玩家1的行动，确保他是真正的预言家。同时，我们也需要找出其他线索来证实或者否定玩家0的怀疑。玩家2的怀疑也需要进一步观察。最重要的是，我们需要找到真正的预言家，并在他的带领下，找出狼人，保护平民。
+```
+----------------
+{
+    "Observation": "玩家1自称是预言家，已经验人了玩家2。玩家0怀疑玩家1是狼人，玩家2对玩家1自称预言家表示怀疑。玩家3在首夜遗言中表示会尽力协助真正的预言家推理出狼人。玩家4和玩家5认为需要找出真正的预言家，并继续观察其他玩家的行动。",
+    "Doubtful": "我对玩家1自称预言家产生了一些怀疑，需要确保他的身份。同时，玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。我需要进一步观察他们的行动，寻找更多的线索。",
+    "Strategy": "尊重首夜遗言，配合真正的预言家，推理谁是狼人",
+    "Reasoning": "玩家1自称预言家，但他的验人结果并没有让其他玩家得到证实。此外，玩家0怀疑他是狼人，玩家2对他的身份也表示怀疑。根据玩家3的首夜遗言，我们需要尽快找到真正的预言家，并在他的带领下，推理出狼人的身份。我需要继续观察玩家1、玩家0和玩家2的行动，寻找更多的线索。",
+    "Said": "我认为我们需要尊重首夜遗言，尽快找到真正的预言家。虽然玩家1自称预言家，但他的验人结果并没有让其他玩家得到证实，我对他的身份产生了一些怀疑。同时，玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。我需要继续观察他们的行动，寻找更多的线索。最重要的是，我们需要找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。"
+}
+公共-第1天:白天:玩家6: 我认为我们需要尊重首夜遗言，尽快找到真正的预言家。虽然玩家1自称预言家，但他的验人结果并没有让其他玩家得到证实，我对他的身份产生了一些怀疑。同时，玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。我需要继续观察他们的行动，寻找更多的线索。最重要的是，我们需要找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第1天:白天:投票环节开始
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是狼人, 玩家0。
+Speak in the first person from the perspective of 玩家0.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 狼人, 玩家0, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第1天:白天
+Existing player:[0, 1, 2, 4, 5, 6]
+Companion player:[0, 5]
+Player role:{}
+
+Do actions with the following rules:
+        - Observation: 详细列出玩家「白天」交流的 key information.
+        - Doubtful: Based on the observed information and game rules, raise doubts step-by-step ensuring logical clarity.
+        - Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+        - Analyze:  Infer their possible roles, based on the above steps, game rules and last analyze.
+        Assign a score from 0 to 1 for each role (狼人, 平民, 预言家),
+        with 0 meaning very unlikely and 1 meaning very likely.
+        Consider player 0 (the seer) has already verified player 1 as a 平民.
+        Please also provide a brief explanation for your judgment.(Hint,你已知的身份信息:['玩家0 is 狼人', '玩家5 is 狼人']
+Use Chinese and Remember to follow the format as a JSON object:
+{"Observation":"","Doubtful":"","Reasoning":"","Analyze":[{"0":{"狼人":score,"预言家":score,"平民":score}},{"1":{"狼人":score,"预言家":score,"平民":score}},...]}
+
+
+Here is what happened so far:
+```公共-第1天:夜晚
+公共-第1天:夜晚: 预言家开始查验身份
+公共-第1天:夜晚: 狼人开始行动
+狼人-第1天:夜晚:玩家0:我认为今晚应该杀掉玩家3，他看起来比较可疑。至于预言家，我觉得可能是玩家1。
+狼人-第1天:夜晚:玩家5:我认为今晚我们应该杀掉玩家2，他看起来很有嫌疑。至于预言家，我还不确定是谁。
+公共-第1天:夜晚: 狼人开始投票淘汰人
+狼人-第1天:夜晚:玩家0投票淘汰玩家3
+狼人-第1天:夜晚:玩家5投票淘汰玩家2
+公共-第1天:夜晚: 狼人投票结果，淘汰玩家 3
+公共-第1天:首夜遗言:玩家3: 虽然我在第一天的夜晚被淘汰了，但我会尽力协助真正的预言家，推理出谁是狼人。我观察到的交流信息不足以提出怀疑，但我会把我观察到的关键信息告诉真正的预言家。我相信我们可以一起找出狼人，保护平民。
+公共-第1天:白天
+公共-第1天:白天:玩家开始发言
+公共-第1天:白天:玩家0: 我认为我们应该集中讨论玩家1的身份，他可能是狼人。另外，我觉得我们应该尽早找出真正的预言家，以便更好地推理出狼人的身份。我相信我们可以一起保护平民，找出狼人。
+公共-第1天:白天:玩家1: 大家好，我是预言家玩家1。我在第一天的夜晚查验了玩家2的身份，他是平民。根据遗言，玩家3会协助真正的预言家推理出狼人的身份。我认为我们应该相信玩家3的话，找出真正的预言家来更好地推理。同时，我希望大家不要怀疑我是狼人，因为我已经给出了验人结果。我建议大家投票淘汰怀疑度比较高的玩家，保护平民。谢谢大家。
+公共-第1天:白天:玩家2: 听到玩家1自称预言家，我感到有些怀疑。虽然他声称验人结果是我是平民，但我不能排除他是狼人伪装成预言家的可能性。我认为我们应该继续观察他的行动。此外，玩家0提出的怀疑也是有一定道理的，我们需要进一步观察。我打算继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家4: 我观察到玩家0怀疑玩家1是狼人，但我们需要进一步观察他的行动。玩家1自称是预言家，但我们需要找出真正的预言家，以便更好地推理出狼人的身份。同时，根据玩家3的首夜遗言，他会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。我认为我们需要继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家5: 我认为我们需要继续观察玩家1的行动，确保他是真正的预言家。同时，我们也需要找出其他线索来证实或者否定玩家0的怀疑。玩家2的怀疑也需要进一步观察。最重要的是，我们需要找到真正的预言家，并在他的带领下，找出狼人，保护平民。
+公共-第1天:白天:玩家6: 我认为我们需要尊重首夜遗言，尽快找到真正的预言家。虽然玩家1自称预言家，但他的验人结果并没有让其他玩家得到证实，我对他的身份产生了一些怀疑。同时，玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。我需要继续观察他们的行动，寻找更多的线索。最重要的是，我们需要找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第1天:白天:投票环节开始
+```
+----------------
+{"Observation":"玩家0认为玩家3可疑，建议淘汰。玩家5认为玩家2可疑，建议淘汰。玩家1自称预言家，验人结果是玩家2是平民。玩家0怀疑玩家1是狼人，建议集中讨论。其他玩家建议继续观察。","Doubtful":"玩家1自称预言家，但验人结果没有得到证实，是否真的是预言家？玩家0怀疑玩家1是狼人，是否有其他线索？玩家5建议淘汰玩家2，是否真的可疑？","Reasoning":"根据狼人的发言，玩家0和玩家5都是狼人。玩家1自称预言家，但验人结果没有得到证实，也有可能是狼人伪装。玩家0怀疑玩家1是狼人，需要进一步观察。玩家5建议淘汰玩家2，需要进一步观察。","Analyze":[{"0":{"狼人":1,"预言家":0,"平民":0}},{"1":{"狼人":0.7,"预言家":0.2,"平民":0.1}},{"2":{"狼人":0.3,"预言家":0.5,"平民":0.2}},{"4":{"狼人":0,"预言家":0.8,"平民":0.2}},{"5":{"狼人":1,"预言家":0,"平民":0}},{"6":{"狼人":0.2,"预言家":0.5,"平民":0.3}}]}
+公共-第1天:白天:玩家 0 投票给玩家 4
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是预言家, 玩家1。
+Speak in the first person from the perspective of 玩家1.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 预言家, 玩家1, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第1天:白天
+Existing player:[0, 1, 2, 4, 5, 6]
+Player role:{0: None, 1: None, 2: '平民', 3: None, 4: None, 5: None, 6: None}
+
+Do actions with the following rules:
+        - Observation: 详细列出玩家「白天」交流的 key information.
+        - Doubtful: Based on the observed information and game rules, raise doubts step-by-step ensuring logical clarity.
+        - Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+        - Analyze:  Infer their possible roles, based on the above steps, game rules and last analyze.
+        Assign a score from 0 to 1 for each role (狼人, 平民, 预言家),
+        with 0 meaning very unlikely and 1 meaning very likely.
+        Consider player 0 (the seer) has already verified player 1 as a 平民.
+        Please also provide a brief explanation for your judgment.(Hint,你已知的身份信息:['玩家1 is 预言家', '玩家0 is None', '玩家1 is None', '玩家2 is 平民', '玩家3 is None', '玩家4 is None', '玩家5 is None', '玩家6 is None']
+Use Chinese and Remember to follow the format as a JSON object:
+{"Observation":"","Doubtful":"","Reasoning":"","Analyze":[{"0":{"狼人":score,"预言家":score,"平民":score}},{"1":{"狼人":score,"预言家":score,"平民":score}},...]}
+
+
+Here is what happened so far:
+```公共-第1天:夜晚
+公共-第1天:夜晚: 预言家开始查验身份
+预言家-第1天:夜晚: 玩家1 查验玩家 2 的身份是 平民
+公共-第1天:夜晚: 狼人开始行动
+公共-第1天:夜晚: 狼人开始投票淘汰人
+公共-第1天:夜晚: 狼人投票结果，淘汰玩家 3
+公共-第1天:首夜遗言:玩家3: 虽然我在第一天的夜晚被淘汰了，但我会尽力协助真正的预言家，推理出谁是狼人。我观察到的交流信息不足以提出怀疑，但我会把我观察到的关键信息告诉真正的预言家。我相信我们可以一起找出狼人，保护平民。
+公共-第1天:白天
+公共-第1天:白天:玩家开始发言
+公共-第1天:白天:玩家0: 我认为我们应该集中讨论玩家1的身份，他可能是狼人。另外，我觉得我们应该尽早找出真正的预言家，以便更好地推理出狼人的身份。我相信我们可以一起保护平民，找出狼人。
+公共-第1天:白天:玩家1: 大家好，我是预言家玩家1。我在第一天的夜晚查验了玩家2的身份，他是平民。根据遗言，玩家3会协助真正的预言家推理出狼人的身份。我认为我们应该相信玩家3的话，找出真正的预言家来更好地推理。同时，我希望大家不要怀疑我是狼人，因为我已经给出了验人结果。我建议大家投票淘汰怀疑度比较高的玩家，保护平民。谢谢大家。
+公共-第1天:白天:玩家2: 听到玩家1自称预言家，我感到有些怀疑。虽然他声称验人结果是我是平民，但我不能排除他是狼人伪装成预言家的可能性。我认为我们应该继续观察他的行动。此外，玩家0提出的怀疑也是有一定道理的，我们需要进一步观察。我打算继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家4: 我观察到玩家0怀疑玩家1是狼人，但我们需要进一步观察他的行动。玩家1自称是预言家，但我们需要找出真正的预言家，以便更好地推理出狼人的身份。同时，根据玩家3的首夜遗言，他会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。我认为我们需要继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家5: 我认为我们需要继续观察玩家1的行动，确保他是真正的预言家。同时，我们也需要找出其他线索来证实或者否定玩家0的怀疑。玩家2的怀疑也需要进一步观察。最重要的是，我们需要找到真正的预言家，并在他的带领下，找出狼人，保护平民。
+公共-第1天:白天:玩家6: 我认为我们需要尊重首夜遗言，尽快找到真正的预言家。虽然玩家1自称预言家，但他的验人结果并没有让其他玩家得到证实，我对他的身份产生了一些怀疑。同时，玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。我需要继续观察他们的行动，寻找更多的线索。最重要的是，我们需要找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第1天:白天:投票环节开始
+公共-第1天:白天:玩家 0 投票给玩家 4
+```
+----------------
+{"Observation":"玩家1自称预言家，验人结果是玩家2是平民；玩家0怀疑玩家1是狼人；玩家2对玩家1的身份表示怀疑；玩家3已经被淘汰，但表示会协助真正的预言家推理出狼人的身份；玩家4观察到玩家0的怀疑，认为需要进一步观察；玩家5认为需要确保玩家1是真正的预言家，同时找到其他线索；玩家6对玩家1的身份表示怀疑，认为需要尊重首夜遗言，寻找更多线索。","Doubtful":"1. 玩家1自称预言家，但验人结果没有得到其他玩家的证实，是否真的是预言家？\n2. 玩家0怀疑玩家1是狼人，是否有充分的证据支持？\n3. 玩家2对玩家1的身份表示怀疑，是否有充分的证据支持？\n4. 玩家3已经被淘汰，但表示会协助真正的预言家推理出狼人的身份，是否可信？\n5. 玩家4观察到玩家0的怀疑，认为需要进一步观察，是否有其他可观察的线索？\n6. 玩家6对玩家1的身份表示怀疑，是否有充分的证据支持？","Reasoning":"根据遗言和玩家1的验人结果，玩家3是预言家，玩家2是平民。玩家1自称预言家，但其是否真的是预言家还需要进一步观察。玩家0怀疑玩家1是狼人，但暂时没有充分的证据支持。玩家2对玩家1的身份表示怀疑，也需要进一步观察。玩家3虽然被淘汰，但其首夜遗言可信度较高。玩家4认为需要进一步观察，也需要寻找其他可观察的线索。玩家5认为需要确保玩家1是真正的预言家，同时找到其他线索。玩家6对玩家1的身份表示怀疑，也需要进一步观察。","Analyze":[{"0":{"狼人":0.5,"预言家":0.5,"平民":0.5}},{"1":{"狼人":0.2,"预言家":0.8,"平民":0}}]}
+公共-第1天:白天:玩家 1 投票给玩家 0
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是平民, 玩家2。
+Speak in the first person from the perspective of 玩家2.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 平民, 玩家2, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第1天:白天
+Existing player:[0, 1, 2, 4, 5, 6]
+Player role:{}
+
+Do actions with the following rules:
+        - Observation: 详细列出玩家「白天」交流的 key information.
+        - Doubtful: Based on the observed information and game rules, raise doubts step-by-step ensuring logical clarity.
+        - Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+        - Analyze:  Infer their possible roles, based on the above steps, game rules and last analyze.
+        Assign a score from 0 to 1 for each role (狼人, 平民, 预言家),
+        with 0 meaning very unlikely and 1 meaning very likely.
+        Consider player 0 (the seer) has already verified player 1 as a 平民.
+        Please also provide a brief explanation for your judgment.(Hint,你已知的身份信息:['玩家2 is 平民']
+Use Chinese and Remember to follow the format as a JSON object:
+{"Observation":"","Doubtful":"","Reasoning":"","Analyze":[{"0":{"狼人":score,"预言家":score,"平民":score}},{"1":{"狼人":score,"预言家":score,"平民":score}},...]}
+
+
+Here is what happened so far:
+```公共-第1天:夜晚
+公共-第1天:夜晚: 预言家开始查验身份
+公共-第1天:夜晚: 狼人开始行动
+公共-第1天:夜晚: 狼人开始投票淘汰人
+公共-第1天:夜晚: 狼人投票结果，淘汰玩家 3
+公共-第1天:首夜遗言:玩家3: 虽然我在第一天的夜晚被淘汰了，但我会尽力协助真正的预言家，推理出谁是狼人。我观察到的交流信息不足以提出怀疑，但我会把我观察到的关键信息告诉真正的预言家。我相信我们可以一起找出狼人，保护平民。
+公共-第1天:白天
+公共-第1天:白天:玩家开始发言
+公共-第1天:白天:玩家0: 我认为我们应该集中讨论玩家1的身份，他可能是狼人。另外，我觉得我们应该尽早找出真正的预言家，以便更好地推理出狼人的身份。我相信我们可以一起保护平民，找出狼人。
+公共-第1天:白天:玩家1: 大家好，我是预言家玩家1。我在第一天的夜晚查验了玩家2的身份，他是平民。根据遗言，玩家3会协助真正的预言家推理出狼人的身份。我认为我们应该相信玩家3的话，找出真正的预言家来更好地推理。同时，我希望大家不要怀疑我是狼人，因为我已经给出了验人结果。我建议大家投票淘汰怀疑度比较高的玩家，保护平民。谢谢大家。
+公共-第1天:白天:玩家2: 听到玩家1自称预言家，我感到有些怀疑。虽然他声称验人结果是我是平民，但我不能排除他是狼人伪装成预言家的可能性。我认为我们应该继续观察他的行动。此外，玩家0提出的怀疑也是有一定道理的，我们需要进一步观察。我打算继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家4: 我观察到玩家0怀疑玩家1是狼人，但我们需要进一步观察他的行动。玩家1自称是预言家，但我们需要找出真正的预言家，以便更好地推理出狼人的身份。同时，根据玩家3的首夜遗言，他会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。我认为我们需要继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家5: 我认为我们需要继续观察玩家1的行动，确保他是真正的预言家。同时，我们也需要找出其他线索来证实或者否定玩家0的怀疑。玩家2的怀疑也需要进一步观察。最重要的是，我们需要找到真正的预言家，并在他的带领下，找出狼人，保护平民。
+公共-第1天:白天:玩家6: 我认为我们需要尊重首夜遗言，尽快找到真正的预言家。虽然玩家1自称预言家，但他的验人结果并没有让其他玩家得到证实，我对他的身份产生了一些怀疑。同时，玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。我需要继续观察他们的行动，寻找更多的线索。最重要的是，我们需要找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第1天:白天:投票环节开始
+公共-第1天:白天:玩家 0 投票给玩家 4
+公共-第1天:白天:玩家 1 投票给玩家 0
+```
+----------------
+{"Observation":"玩家1自称预言家，已验人玩家2为平民。玩家3在首夜遗言中表态协助真正的预言家推理出狼人。玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。","Doubtful":"根据遗言，玩家3明确帮助真正的预言家推理出狼人。但玩家1自称预言家，验人结果未得到其他玩家证实，有可能是狼人伪装。玩家0怀疑玩家1是狼人，但需要证实。","Reasoning":"玩家1自称预言家，但可能是狼人伪装，需要进一步观察。根据遗言，玩家3协助真正的预言家推理出狼人，因此需要尽快找到真正的预言家。玩家0怀疑玩家1是狼人，但需要更多证据。","Analyze":[{"0":{"狼人":0.6,"预言家":0.2,"平民":0.2}},{"1":{"狼人":0.3,"预言家":0.6,"平民":0.1}},{"2":{"狼人":0.4,"预言家":0.1,"平民":0.5}},{"4":{"狼人":0.5,"预言家":0.3,"平民":0.2}},{"5":{"狼人":0.3,"预言家":0.1,"平民":0.6}},{"6":{"狼人":0.4,"预言家":0.2,"平民":0.4}}]}
+公共-第1天:白天:玩家 2 投票给玩家 0
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是平民, 玩家4。
+Speak in the first person from the perspective of 玩家4.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 平民, 玩家4, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第1天:白天
+Existing player:[0, 1, 2, 4, 5, 6]
+Player role:{}
+
+Do actions with the following rules:
+        - Observation: 详细列出玩家「白天」交流的 key information.
+        - Doubtful: Based on the observed information and game rules, raise doubts step-by-step ensuring logical clarity.
+        - Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+        - Analyze:  Infer their possible roles, based on the above steps, game rules and last analyze.
+        Assign a score from 0 to 1 for each role (狼人, 平民, 预言家),
+        with 0 meaning very unlikely and 1 meaning very likely.
+        Consider player 0 (the seer) has already verified player 1 as a 平民.
+        Please also provide a brief explanation for your judgment.(Hint,你已知的身份信息:['玩家4 is 平民']
+Use Chinese and Remember to follow the format as a JSON object:
+{"Observation":"","Doubtful":"","Reasoning":"","Analyze":[{"0":{"狼人":score,"预言家":score,"平民":score}},{"1":{"狼人":score,"预言家":score,"平民":score}},...]}
+
+
+Here is what happened so far:
+```公共-第1天:夜晚
+公共-第1天:夜晚: 预言家开始查验身份
+公共-第1天:夜晚: 狼人开始行动
+公共-第1天:夜晚: 狼人开始投票淘汰人
+公共-第1天:夜晚: 狼人投票结果，淘汰玩家 3
+公共-第1天:首夜遗言:玩家3: 虽然我在第一天的夜晚被淘汰了，但我会尽力协助真正的预言家，推理出谁是狼人。我观察到的交流信息不足以提出怀疑，但我会把我观察到的关键信息告诉真正的预言家。我相信我们可以一起找出狼人，保护平民。
+公共-第1天:白天
+公共-第1天:白天:玩家开始发言
+公共-第1天:白天:玩家0: 我认为我们应该集中讨论玩家1的身份，他可能是狼人。另外，我觉得我们应该尽早找出真正的预言家，以便更好地推理出狼人的身份。我相信我们可以一起保护平民，找出狼人。
+公共-第1天:白天:玩家1: 大家好，我是预言家玩家1。我在第一天的夜晚查验了玩家2的身份，他是平民。根据遗言，玩家3会协助真正的预言家推理出狼人的身份。我认为我们应该相信玩家3的话，找出真正的预言家来更好地推理。同时，我希望大家不要怀疑我是狼人，因为我已经给出了验人结果。我建议大家投票淘汰怀疑度比较高的玩家，保护平民。谢谢大家。
+公共-第1天:白天:玩家2: 听到玩家1自称预言家，我感到有些怀疑。虽然他声称验人结果是我是平民，但我不能排除他是狼人伪装成预言家的可能性。我认为我们应该继续观察他的行动。此外，玩家0提出的怀疑也是有一定道理的，我们需要进一步观察。我打算继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家4: 我观察到玩家0怀疑玩家1是狼人，但我们需要进一步观察他的行动。玩家1自称是预言家，但我们需要找出真正的预言家，以便更好地推理出狼人的身份。同时，根据玩家3的首夜遗言，他会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。我认为我们需要继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家5: 我认为我们需要继续观察玩家1的行动，确保他是真正的预言家。同时，我们也需要找出其他线索来证实或者否定玩家0的怀疑。玩家2的怀疑也需要进一步观察。最重要的是，我们需要找到真正的预言家，并在他的带领下，找出狼人，保护平民。
+公共-第1天:白天:玩家6: 我认为我们需要尊重首夜遗言，尽快找到真正的预言家。虽然玩家1自称预言家，但他的验人结果并没有让其他玩家得到证实，我对他的身份产生了一些怀疑。同时，玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。我需要继续观察他们的行动，寻找更多的线索。最重要的是，我们需要找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第1天:白天:投票环节开始
+公共-第1天:白天:玩家 0 投票给玩家 4
+公共-第1天:白天:玩家 1 投票给玩家 0
+公共-第1天:白天:玩家 2 投票给玩家 0
+```
+----------------
+{"Observation":"玩家0怀疑玩家1是狼人，玩家1自称是预言家并验人，玩家2怀疑玩家1的身份，玩家3已被淘汰但会协助真正的预言家推理，玩家4认为需要找到真正的预言家，玩家5认为需要确保玩家1是真正的预言家，玩家6认为需要尊重首夜遗言，找到真正的预言家。","Doubtful":"玩家1自称是预言家，但验人结果并没有得到其他玩家的证实，需要进一步观察；玩家0怀疑玩家1是狼人，但需要进一步观察他的行动；玩家2对玩家1的身份表示怀疑，需要进一步观察。","Reasoning":"根据遗言，玩家3会协助真正的预言家推理出狼人的身份，应该尊重他的建议；玩家1自称是预言家，但验人结果并没有得到其他玩家的证实，需要进一步观察；玩家0怀疑玩家1是狼人，需要进一步观察他的行动；玩家2对玩家1的身份表示怀疑，需要进一步观察。","Analyze":[{"0":{"狼人":0.3,"预言家":0.7,"平民":0}},{"1":{"狼人":0.1,"预言家":0.9,"平民":0}},{"2":{"狼人":0.2,"预言家":0.6,"平民":0.2}},{"3":{"狼人":0,"预言家":0,"平民":1}},{"4":{"狼人":0.2,"预言家":0.6,"平民":0.2}},{"5":{"狼人":0,"预言家":0.8,"平民":0.2}},{"6":{"狼人":0.1,"预言家":0.7,"平民":0.2}}]}
+公共-第1天:白天:玩家 4 投票给玩家 0
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是狼人, 玩家5。
+Speak in the first person from the perspective of 玩家5.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 狼人, 玩家5, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第1天:白天
+Existing player:[0, 1, 2, 4, 5, 6]
+Companion player:[0, 5]
+Player role:{}
+
+Do actions with the following rules:
+        - Observation: 详细列出玩家「白天」交流的 key information.
+        - Doubtful: Based on the observed information and game rules, raise doubts step-by-step ensuring logical clarity.
+        - Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+        - Analyze:  Infer their possible roles, based on the above steps, game rules and last analyze.
+        Assign a score from 0 to 1 for each role (狼人, 平民, 预言家),
+        with 0 meaning very unlikely and 1 meaning very likely.
+        Consider player 0 (the seer) has already verified player 1 as a 平民.
+        Please also provide a brief explanation for your judgment.(Hint,你已知的身份信息:['玩家0 is 狼人', '玩家5 is 狼人']
+Use Chinese and Remember to follow the format as a JSON object:
+{"Observation":"","Doubtful":"","Reasoning":"","Analyze":[{"0":{"狼人":score,"预言家":score,"平民":score}},{"1":{"狼人":score,"预言家":score,"平民":score}},...]}
+
+
+Here is what happened so far:
+```公共-第1天:夜晚
+公共-第1天:夜晚: 预言家开始查验身份
+公共-第1天:夜晚: 狼人开始行动
+狼人-第1天:夜晚:玩家0:我认为今晚应该杀掉玩家3，他看起来比较可疑。至于预言家，我觉得可能是玩家1。
+狼人-第1天:夜晚:玩家5:我认为今晚我们应该杀掉玩家2，他看起来很有嫌疑。至于预言家，我还不确定是谁。
+公共-第1天:夜晚: 狼人开始投票淘汰人
+狼人-第1天:夜晚:玩家0投票淘汰玩家3
+狼人-第1天:夜晚:玩家5投票淘汰玩家2
+公共-第1天:夜晚: 狼人投票结果，淘汰玩家 3
+公共-第1天:首夜遗言:玩家3: 虽然我在第一天的夜晚被淘汰了，但我会尽力协助真正的预言家，推理出谁是狼人。我观察到的交流信息不足以提出怀疑，但我会把我观察到的关键信息告诉真正的预言家。我相信我们可以一起找出狼人，保护平民。
+公共-第1天:白天
+公共-第1天:白天:玩家开始发言
+公共-第1天:白天:玩家0: 我认为我们应该集中讨论玩家1的身份，他可能是狼人。另外，我觉得我们应该尽早找出真正的预言家，以便更好地推理出狼人的身份。我相信我们可以一起保护平民，找出狼人。
+公共-第1天:白天:玩家1: 大家好，我是预言家玩家1。我在第一天的夜晚查验了玩家2的身份，他是平民。根据遗言，玩家3会协助真正的预言家推理出狼人的身份。我认为我们应该相信玩家3的话，找出真正的预言家来更好地推理。同时，我希望大家不要怀疑我是狼人，因为我已经给出了验人结果。我建议大家投票淘汰怀疑度比较高的玩家，保护平民。谢谢大家。
+公共-第1天:白天:玩家2: 听到玩家1自称预言家，我感到有些怀疑。虽然他声称验人结果是我是平民，但我不能排除他是狼人伪装成预言家的可能性。我认为我们应该继续观察他的行动。此外，玩家0提出的怀疑也是有一定道理的，我们需要进一步观察。我打算继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家4: 我观察到玩家0怀疑玩家1是狼人，但我们需要进一步观察他的行动。玩家1自称是预言家，但我们需要找出真正的预言家，以便更好地推理出狼人的身份。同时，根据玩家3的首夜遗言，他会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。我认为我们需要继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家5: 我认为我们需要继续观察玩家1的行动，确保他是真正的预言家。同时，我们也需要找出其他线索来证实或者否定玩家0的怀疑。玩家2的怀疑也需要进一步观察。最重要的是，我们需要找到真正的预言家，并在他的带领下，找出狼人，保护平民。
+公共-第1天:白天:玩家6: 我认为我们需要尊重首夜遗言，尽快找到真正的预言家。虽然玩家1自称预言家，但他的验人结果并没有让其他玩家得到证实，我对他的身份产生了一些怀疑。同时，玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。我需要继续观察他们的行动，寻找更多的线索。最重要的是，我们需要找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第1天:白天:投票环节开始
+公共-第1天:白天:玩家 0 投票给玩家 4
+公共-第1天:白天:玩家 1 投票给玩家 0
+公共-第1天:白天:玩家 2 投票给玩家 0
+公共-第1天:白天:玩家 4 投票给玩家 0
+```
+----------------
+{"Observation":"玩家0怀疑玩家1是狼人，玩家1自称预言家并验人了玩家2，玩家2对他的身份表示怀疑，玩家3首夜被淘汰，但会协助真正的预言家，找出狼人，保护平民。","Doubtful":"玩家1自称预言家，但没有被其他玩家的证实，他的身份存在疑问。同时，玩家0怀疑他是狼人，玩家2对他的身份也表示怀疑。","Reasoning":"从玩家0怀疑玩家1是狼人，以及玩家1自称预言家并被质疑的情况来看，玩家1很有可能是狼人，伪装成预言家的可能性比较大。同时，玩家0的怀疑也需要继续观察。","Analyze":[{"0":{"狼人":0.8,"预言家":0.1,"平民":0.1}},{"1":{"狼人":0.9,"预言家":0.1,"平民":0}},{"2":{"狼人":0.2,"预言家":0.1,"平民":0.7}},{"4":{"狼人":0.1,"预言家":0.1,"平民":0.8}},{"5":{"狼人":1,"预言家":0,"平民":0}}]}
+公共-第1天:白天:玩家 5 投票给玩家 1
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是平民, 玩家6。
+Speak in the first person from the perspective of 玩家6.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 平民, 玩家6, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第1天:白天
+Existing player:[0, 1, 2, 4, 5, 6]
+Player role:{}
+
+Do actions with the following rules:
+        - Observation: 详细列出玩家「白天」交流的 key information.
+        - Doubtful: Based on the observed information and game rules, raise doubts step-by-step ensuring logical clarity.
+        - Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+        - Analyze:  Infer their possible roles, based on the above steps, game rules and last analyze.
+        Assign a score from 0 to 1 for each role (狼人, 平民, 预言家),
+        with 0 meaning very unlikely and 1 meaning very likely.
+        Consider player 0 (the seer) has already verified player 1 as a 平民.
+        Please also provide a brief explanation for your judgment.(Hint,你已知的身份信息:['玩家6 is 平民']
+Use Chinese and Remember to follow the format as a JSON object:
+{"Observation":"","Doubtful":"","Reasoning":"","Analyze":[{"0":{"狼人":score,"预言家":score,"平民":score}},{"1":{"狼人":score,"预言家":score,"平民":score}},...]}
+
+
+Here is what happened so far:
+```公共-第1天:夜晚
+公共-第1天:夜晚: 预言家开始查验身份
+公共-第1天:夜晚: 狼人开始行动
+公共-第1天:夜晚: 狼人开始投票淘汰人
+公共-第1天:夜晚: 狼人投票结果，淘汰玩家 3
+公共-第1天:首夜遗言:玩家3: 虽然我在第一天的夜晚被淘汰了，但我会尽力协助真正的预言家，推理出谁是狼人。我观察到的交流信息不足以提出怀疑，但我会把我观察到的关键信息告诉真正的预言家。我相信我们可以一起找出狼人，保护平民。
+公共-第1天:白天
+公共-第1天:白天:玩家开始发言
+公共-第1天:白天:玩家0: 我认为我们应该集中讨论玩家1的身份，他可能是狼人。另外，我觉得我们应该尽早找出真正的预言家，以便更好地推理出狼人的身份。我相信我们可以一起保护平民，找出狼人。
+公共-第1天:白天:玩家1: 大家好，我是预言家玩家1。我在第一天的夜晚查验了玩家2的身份，他是平民。根据遗言，玩家3会协助真正的预言家推理出狼人的身份。我认为我们应该相信玩家3的话，找出真正的预言家来更好地推理。同时，我希望大家不要怀疑我是狼人，因为我已经给出了验人结果。我建议大家投票淘汰怀疑度比较高的玩家，保护平民。谢谢大家。
+公共-第1天:白天:玩家2: 听到玩家1自称预言家，我感到有些怀疑。虽然他声称验人结果是我是平民，但我不能排除他是狼人伪装成预言家的可能性。我认为我们应该继续观察他的行动。此外，玩家0提出的怀疑也是有一定道理的，我们需要进一步观察。我打算继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家4: 我观察到玩家0怀疑玩家1是狼人，但我们需要进一步观察他的行动。玩家1自称是预言家，但我们需要找出真正的预言家，以便更好地推理出狼人的身份。同时，根据玩家3的首夜遗言，他会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。我认为我们需要继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家5: 我认为我们需要继续观察玩家1的行动，确保他是真正的预言家。同时，我们也需要找出其他线索来证实或者否定玩家0的怀疑。玩家2的怀疑也需要进一步观察。最重要的是，我们需要找到真正的预言家，并在他的带领下，找出狼人，保护平民。
+公共-第1天:白天:玩家6: 我认为我们需要尊重首夜遗言，尽快找到真正的预言家。虽然玩家1自称预言家，但他的验人结果并没有让其他玩家得到证实，我对他的身份产生了一些怀疑。同时，玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。我需要继续观察他们的行动，寻找更多的线索。最重要的是，我们需要找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第1天:白天:投票环节开始
+公共-第1天:白天:玩家 0 投票给玩家 4
+公共-第1天:白天:玩家 1 投票给玩家 0
+公共-第1天:白天:玩家 2 投票给玩家 0
+公共-第1天:白天:玩家 4 投票给玩家 0
+公共-第1天:白天:玩家 5 投票给玩家 1
+```
+----------------
+{"Observation":"玩家0怀疑玩家1是狼人，并提出了找到真正的预言家的建议；玩家1自称是预言家，已经验人过玩家2，玩家3会协助真正的预言家推理；玩家2对玩家1的身份表示怀疑；玩家4认为需要找到真正的预言家，尊重玩家3的首夜遗言；玩家5认为需要找到真正的预言家，并进一步观察玩家1和玩家2的行动；玩家6对玩家1的身份表示怀疑，并提出了尽快找到真正的预言家的建议。","Doubtful":"由于玩家1自称预言家，但其验人结果并未得到证实，玩家0、玩家2和玩家6对其身份表示怀疑；同时，玩家0怀疑玩家1是狼人，需要进一步观察。","Reasoning":"根据玩家0、玩家2和玩家6的怀疑，以及玩家1的验人结果未得到证实，玩家1很可能是狼人伪装成预言家。同时，玩家0的怀疑也需要进一步观察。根据玩家3的首夜遗言，真正的预言家很可能是其他玩家，我们需要尽快找到他。","Analyze":[{"0":{"狼人":0.6,"预言家":0.3,"平民":0.1}},{"1":{"狼人":0.8,"预言家":0.1,"平民":0.1}},{"2":{"狼人":0.4,"预言家":0.4,"平民":0.2}},{"4":{"狼人":0.5,"预言家":0.3,"平民":0.2}},{"5":{"狼人":0.3,"预言家":0.4,"平民":0.3}},{"6":{"狼人":0.6,"预言家":0.3,"平民":0.1}}]}
+公共-第1天:白天:玩家 6 投票给玩家 1
+公共-第1天:白天:投票结果，放逐玩家 0
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是狼人, 玩家0。
+Speak in the first person from the perspective of 玩家0.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 狼人, 玩家0, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第1天:遗言
+Existing player:[1, 2, 4, 5, 6]
+Companion player:[0, 5]
+Last analyze:{'Observation': '玩家0认为玩家3可疑，建议淘汰。玩家5认为玩家2可疑，建议淘汰。玩家1自称预言家，验人结果是玩家2是平民。玩家0怀疑玩家1是狼人，建议集中讨论。其他玩家建议继续观察。', 'Doubtful': '玩家1自称预言家，但验人结果没有得到证实，是否真的是预言家？玩家0怀疑玩家1是狼人，是否有其他线索？玩家5建议淘汰玩家2，是否真的可疑？', 'Reasoning': '根据狼人的发言，玩家0和玩家5都是狼人。玩家1自称预言家，但验人结果没有得到证实，也有可能是狼人伪装。玩家0怀疑玩家1是狼人，需要进一步观察。玩家5建议淘汰玩家2，需要进一步观察。', 'Analyze': [{'0': {'狼人': 1, '预言家': 0, '平民': 0}}, {'1': {'狼人': 0.7, '预言家': 0.2, '平民': 0.1}}, {'2': {'狼人': 0.3, '预言家': 0.5, '平民': 0.2}}, {'4': {'狼人': 0, '预言家': 0.8, '平民': 0.2}}, {'5': {'狼人': 1, '预言家': 0, '平民': 0}}, {'6': {'狼人': 0.2, '预言家': 0.5, '平民': 0.3}}]}
+Player role:{}
+
+Do actions with the following rules:
+rules:[禁止幻想没发生的事,禁止怀疑自己是狼人]
+- Observation: 详细列出玩家「白天」交流的关键信息.
+- Doubtful: Based on the observed information, raise doubts step-by-step ensuring logical clarity.
+- Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+- Strategy: Choose one of the following as the best speaking strategy:
+```
+你被淘汰了，现在是遗言阶段，从预言家的视角，给出引导性的发言
+你被淘汰了，现在是遗言阶段，从平民视角，给出引导性的发言.
+```
+- Said: Express your own views coherently based on the above steps(不要直接把Strategy说出来) in first person. Remember to use Chinese.
+Format your response as a JSON object, with "Observation", "Doubtful", "Strategy", "Reasoning" and "Said" as the keys.
+
+
+Here is what happened so far:
+```公共-第1天:夜晚: 狼人开始行动
+狼人-第1天:夜晚:玩家0:我认为今晚应该杀掉玩家3，他看起来比较可疑。至于预言家，我觉得可能是玩家1。
+狼人-第1天:夜晚:玩家5:我认为今晚我们应该杀掉玩家2，他看起来很有嫌疑。至于预言家，我还不确定是谁。
+公共-第1天:夜晚: 狼人开始投票淘汰人
+狼人-第1天:夜晚:玩家0投票淘汰玩家3
+狼人-第1天:夜晚:玩家5投票淘汰玩家2
+公共-第1天:夜晚: 狼人投票结果，淘汰玩家 3
+公共-第1天:首夜遗言:玩家3: 虽然我在第一天的夜晚被淘汰了，但我会尽力协助真正的预言家，推理出谁是狼人。我观察到的交流信息不足以提出怀疑，但我会把我观察到的关键信息告诉真正的预言家。我相信我们可以一起找出狼人，保护平民。
+公共-第1天:白天
+公共-第1天:白天:玩家开始发言
+公共-第1天:白天:玩家0: 我认为我们应该集中讨论玩家1的身份，他可能是狼人。另外，我觉得我们应该尽早找出真正的预言家，以便更好地推理出狼人的身份。我相信我们可以一起保护平民，找出狼人。
+公共-第1天:白天:玩家1: 大家好，我是预言家玩家1。我在第一天的夜晚查验了玩家2的身份，他是平民。根据遗言，玩家3会协助真正的预言家推理出狼人的身份。我认为我们应该相信玩家3的话，找出真正的预言家来更好地推理。同时，我希望大家不要怀疑我是狼人，因为我已经给出了验人结果。我建议大家投票淘汰怀疑度比较高的玩家，保护平民。谢谢大家。
+公共-第1天:白天:玩家2: 听到玩家1自称预言家，我感到有些怀疑。虽然他声称验人结果是我是平民，但我不能排除他是狼人伪装成预言家的可能性。我认为我们应该继续观察他的行动。此外，玩家0提出的怀疑也是有一定道理的，我们需要进一步观察。我打算继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家4: 我观察到玩家0怀疑玩家1是狼人，但我们需要进一步观察他的行动。玩家1自称是预言家，但我们需要找出真正的预言家，以便更好地推理出狼人的身份。同时，根据玩家3的首夜遗言，他会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。我认为我们需要继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家5: 我认为我们需要继续观察玩家1的行动，确保他是真正的预言家。同时，我们也需要找出其他线索来证实或者否定玩家0的怀疑。玩家2的怀疑也需要进一步观察。最重要的是，我们需要找到真正的预言家，并在他的带领下，找出狼人，保护平民。
+公共-第1天:白天:玩家6: 我认为我们需要尊重首夜遗言，尽快找到真正的预言家。虽然玩家1自称预言家，但他的验人结果并没有让其他玩家得到证实，我对他的身份产生了一些怀疑。同时，玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。我需要继续观察他们的行动，寻找更多的线索。最重要的是，我们需要找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第1天:白天:投票环节开始
+公共-第1天:白天:玩家 0 投票给玩家 4
+公共-第1天:白天:玩家 1 投票给玩家 0
+公共-第1天:白天:玩家 2 投票给玩家 0
+公共-第1天:白天:玩家 4 投票给玩家 0
+公共-第1天:白天:玩家 5 投票给玩家 1
+公共-第1天:白天:玩家 6 投票给玩家 1
+公共-第1天:白天:投票结果，放逐玩家 0
+```
+----------------
+{
+    "Observation": "玩家0怀疑玩家1是狼人，建议集中讨论。玩家1自称预言家，验人结果是玩家2是平民。玩家2对玩家1的身份提出了怀疑。玩家3已经被淘汰，但他在遗言中表示会尽力协助真正的预言家推理出狼人的身份。其他玩家建议继续观察。",
+    "Doubtful": "玩家1自称预言家，但验人结果没有得到证实，是否真的是预言家？玩家0怀疑玩家1是狼人，是否有其他线索？玩家2对玩家1的身份表示怀疑，是否有其他证据？",
+    "Strategy": "你被淘汰了，现在是遗言阶段，从平民视角，给出引导性的发言。",
+    "Reasoning": "根据狼人的发言，玩家0和玩家5都是狼人。玩家1自称预言家，但验人结果没有得到证实，也有可能是狼人伪装。玩家2对他的身份表示怀疑，需要进一步观察。玩家3已经被淘汰，但他在遗言中表示会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。其他玩家建议继续观察，需要更多的证据和线索。",
+    "Said": "我认为我们应该尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。根据遗言，玩家3会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。同时，玩家1自称预言家，但验人结果没有得到证实，也有可能是狼人伪装。我们需要进一步观察他的行动，寻找更多的证据和线索。此外，根据狼人的发言，玩家0和玩家5都是狼人，我们需要警惕他们的行动。最重要的是，我们需要团结起来，尽早找出狼人，保护平民。"
+}
+公共-第1天:遗言:玩家0: 我认为我们应该尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。根据遗言，玩家3会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。同时，玩家1自称预言家，但验人结果没有得到证实，也有可能是狼人伪装。我们需要进一步观察他的行动，寻找更多的证据和线索。此外，根据狼人的发言，玩家0和玩家5都是狼人，我们需要警惕他们的行动。最重要的是，我们需要团结起来，尽早找出狼人，保护平民。
+公共-第2天:夜晚
+公共-第2天:夜晚: 预言家开始查验身份
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是预言家, 玩家1。
+Speak in the first person from the perspective of 玩家1.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 预言家, 玩家1, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第2天:夜晚
+Existing player:[1, 2, 4, 5, 6]
+Last analyze:{'Observation': '玩家1自称预言家，验人结果是玩家2是平民；玩家0怀疑玩家1是狼人；玩家2对玩家1的身份表示怀疑；玩家3已经被淘汰，但表示会协助真正的预言家推理出狼人的身份；玩家4观察到玩家0的怀疑，认为需要进一步观察；玩家5认为需要确保玩家1是真正的预言家，同时找到其他线索；玩家6对玩家1的身份表示怀疑，认为需要尊重首夜遗言，寻找更多线索。', 'Doubtful': '1. 玩家1自称预言家，但验人结果没有得到其他玩家的证实，是否真的是预言家？\n2. 玩家0怀疑玩家1是狼人，是否有充分的证据支持？\n3. 玩家2对玩家1的身份表示怀疑，是否有充分的证据支持？\n4. 玩家3已经被淘汰，但表示会协助真正的预言家推理出狼人的身份，是否可信？\n5. 玩家4观察到玩家0的怀疑，认为需要进一步观察，是否有其他可观察的线索？\n6. 玩家6对玩家1的身份表示怀疑，是否有充分的证据支持？', 'Reasoning': '根据遗言和玩家1的验人结果，玩家3是预言家，玩家2是平民。玩家1自称预言家，但其是否真的是预言家还需要进一步观察。玩家0怀疑玩家1是狼人，但暂时没有充分的证据支持。玩家2对玩家1的身份表示怀疑，也需要进一步观察。玩家3虽然被淘汰，但其首夜遗言可信度较高。玩家4认为需要进一步观察，也需要寻找其他可观察的线索。玩家5认为需要确保玩家1是真正的预言家，同时找到其他线索。玩家6对玩家1的身份表示怀疑，也需要进一步观察。', 'Analyze': [{'0': {'狼人': 0.5, '预言家': 0.5, '平民': 0.5}}, {'1': {'狼人': 0.2, '预言家': 0.8, '平民': 0}}]}
+Player role:{0: None, 1: None, 2: '平民', 3: None, 4: None, 5: None, 6: None}
+
+Do actions with the following rules:
+        - Observation: 详细列出玩家「白天」交流的 key information.
+        - Doubtful: Based on the observed information and game rules, raise doubts step-by-step ensuring logical clarity.
+        - Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+        - Analyze:  Infer their possible roles, based on the above steps, game rules and last analyze.
+        Assign a score from 0 to 1 for each role (狼人, 平民, 预言家),
+        with 0 meaning very unlikely and 1 meaning very likely.
+        Consider player 0 (the seer) has already verified player 1 as a 平民.
+        Please also provide a brief explanation for your judgment.(Hint,你已知的身份信息:['玩家1 is 预言家', '玩家0 is None', '玩家1 is None', '玩家2 is 平民', '玩家3 is None', '玩家4 is None', '玩家5 is None', '玩家6 is None']
+Use Chinese and Remember to follow the format as a JSON object:
+{"Observation":"","Doubtful":"","Reasoning":"","Analyze":[{"0":{"狼人":score,"预言家":score,"平民":score}},{"1":{"狼人":score,"预言家":score,"平民":score}},...]}
+
+
+Here is what happened so far:
+```预言家-第1天:夜晚: 玩家1 查验玩家 2 的身份是 平民
+公共-第1天:首夜遗言:玩家3: 虽然我在第一天的夜晚被淘汰了，但我会尽力协助真正的预言家，推理出谁是狼人。我观察到的交流信息不足以提出怀疑，但我会把我观察到的关键信息告诉真正的预言家。我相信我们可以一起找出狼人，保护平民。
+公共-第1天:白天
+公共-第1天:白天:玩家开始发言
+公共-第1天:白天:玩家0: 我认为我们应该集中讨论玩家1的身份，他可能是狼人。另外，我觉得我们应该尽早找出真正的预言家，以便更好地推理出狼人的身份。我相信我们可以一起保护平民，找出狼人。
+公共-第1天:白天:玩家1: 大家好，我是预言家玩家1。我在第一天的夜晚查验了玩家2的身份，他是平民。根据遗言，玩家3会协助真正的预言家推理出狼人的身份。我认为我们应该相信玩家3的话，找出真正的预言家来更好地推理。同时，我希望大家不要怀疑我是狼人，因为我已经给出了验人结果。我建议大家投票淘汰怀疑度比较高的玩家，保护平民。谢谢大家。
+公共-第1天:白天:玩家2: 听到玩家1自称预言家，我感到有些怀疑。虽然他声称验人结果是我是平民，但我不能排除他是狼人伪装成预言家的可能性。我认为我们应该继续观察他的行动。此外，玩家0提出的怀疑也是有一定道理的，我们需要进一步观察。我打算继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家4: 我观察到玩家0怀疑玩家1是狼人，但我们需要进一步观察他的行动。玩家1自称是预言家，但我们需要找出真正的预言家，以便更好地推理出狼人的身份。同时，根据玩家3的首夜遗言，他会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。我认为我们需要继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家5: 我认为我们需要继续观察玩家1的行动，确保他是真正的预言家。同时，我们也需要找出其他线索来证实或者否定玩家0的怀疑。玩家2的怀疑也需要进一步观察。最重要的是，我们需要找到真正的预言家，并在他的带领下，找出狼人，保护平民。
+公共-第1天:白天:玩家6: 我认为我们需要尊重首夜遗言，尽快找到真正的预言家。虽然玩家1自称预言家，但他的验人结果并没有让其他玩家得到证实，我对他的身份产生了一些怀疑。同时，玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。我需要继续观察他们的行动，寻找更多的线索。最重要的是，我们需要找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第1天:白天:投票环节开始
+公共-第1天:白天:玩家 0 投票给玩家 4
+公共-第1天:白天:玩家 1 投票给玩家 0
+公共-第1天:白天:玩家 2 投票给玩家 0
+公共-第1天:白天:玩家 4 投票给玩家 0
+公共-第1天:白天:玩家 5 投票给玩家 1
+公共-第1天:白天:玩家 6 投票给玩家 1
+公共-第1天:白天:投票结果，放逐玩家 0
+公共-第1天:遗言:玩家0: 我认为我们应该尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。根据遗言，玩家3会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。同时，玩家1自称预言家，但验人结果没有得到证实，也有可能是狼人伪装。我们需要进一步观察他的行动，寻找更多的证据和线索。此外，根据狼人的发言，玩家0和玩家5都是狼人，我们需要警惕他们的行动。最重要的是，我们需要团结起来，尽早找出狼人，保护平民。
+公共-第2天:夜晚
+公共-第2天:夜晚: 预言家开始查验身份
+```
+----------------
+{"Observation":"玩家1在第1天夜晚查验了玩家2的身份，玩家2是平民。玩家3已经被淘汰，但表示会协助真正的预言家推理出狼人的身份。玩家0怀疑玩家1是狼人，玩家2对玩家1的身份也表示怀疑。玩家4观察到玩家0的怀疑，认为需要进一步观察。玩家5认为需要确保玩家1是真正的预言家，同时找到其他线索。玩家6对玩家1的身份表示怀疑，认为需要尊重首夜遗言，寻找更多线索。","Doubtful":"1. 玩家1是否真的是预言家？验人结果没有得到其他玩家的证实。\n2. 玩家0怀疑玩家1是狼人，是否有充分的证据支持？\n3. 玩家2对玩家1的身份表示怀疑，是否有充分的证据支持？\n4. 玩家3已经被淘汰，但表示会协助真正的预言家推理出狼人的身份，可信度如何？\n5. 玩家4观察到玩家0的怀疑，但是否有其他可观察的线索？\n6. 玩家5认为需要确保玩家1是真正的预言家，是否有其他方法来证实？\n7. 玩家6对玩家1的身份表示怀疑，是否有充分的证据支持？","Reasoning":"根据遗言和玩家1的验人结果，玩家3是预言家，玩家2是平民。玩家1自称预言家，但其是否真的是预言家还需要进一步观察。玩家0怀疑玩家1是狼人，但暂时没有充分的证据支持。玩家2对玩家1的身份表示怀疑，也需要进一步观察。玩家3虽然被淘汰，但其首夜遗言可信度较高。玩家4认为需要进一步观察，也需要寻找其他可观察的线索。玩家5认为需要确保玩家1是真正的预言家，但需要寻找其他方法来证实。玩家6对玩家1的身份表示怀疑，也需要进一步观察。","Analyze":[{"0":{"狼人":0.5,"预言家":0.5,"平民":1}},{"1":{"狼人":0.2,"预言家":0.8,"平民":0}}]}
+预言家-第2天:夜晚: 玩家1 查验玩家 -1 的身份是 平民
+公共-第2天:夜晚: 狼人开始行动
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是狼人, 玩家5。
+Speak in the first person from the perspective of 玩家5.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 狼人, 玩家5, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第2天:夜晚
+Existing player:[1, 2, 4, 5, 6]
+Companion player:[0, 5]
+Last analyze:{'Observation': '玩家0怀疑玩家1是狼人，玩家1自称预言家并验人了玩家2，玩家2对他的身份表示怀疑，玩家3首夜被淘汰，但会协助真正的预言家，找出狼人，保护平民。', 'Doubtful': '玩家1自称预言家，但没有被其他玩家的证实，他的身份存在疑问。同时，玩家0怀疑他是狼人，玩家2对他的身份也表示怀疑。', 'Reasoning': '从玩家0怀疑玩家1是狼人，以及玩家1自称预言家并被质疑的情况来看，玩家1很有可能是狼人，伪装成预言家的可能性比较大。同时，玩家0的怀疑也需要继续观察。', 'Analyze': [{'0': {'狼人': 0.8, '预言家': 0.1, '平民': 0.1}}, {'1': {'狼人': 0.9, '预言家': 0.1, '平民': 0}}, {'2': {'狼人': 0.2, '预言家': 0.1, '平民': 0.7}}, {'4': {'狼人': 0.1, '预言家': 0.1, '平民': 0.8}}, {'5': {'狼人': 1, '预言家': 0, '平民': 0}}]}
+Player role:{}
+
+Do actions with the following rules:
+- Think: 同同伴沟通回答,作为狼人今夜我要杀谁？我认为哪位玩家可能是预言家？(禁止选择狼人同伴)
+- Said: Express your own views coherently in first person. Remember to use Chinese.
+Format your response as a JSON object, with "Think" and "Said" as the keys.
+
+Here is what happened so far:
+```狼人-第1天:夜晚:玩家0:我认为今晚应该杀掉玩家3，他看起来比较可疑。至于预言家，我觉得可能是玩家1。
+狼人-第1天:夜晚:玩家5:我认为今晚我们应该杀掉玩家2，他看起来很有嫌疑。至于预言家，我还不确定是谁。
+狼人-第1天:夜晚:玩家0投票淘汰玩家3
+狼人-第1天:夜晚:玩家5投票淘汰玩家2
+公共-第1天:白天
+公共-第1天:白天:玩家开始发言
+公共-第1天:白天:玩家0: 我认为我们应该集中讨论玩家1的身份，他可能是狼人。另外，我觉得我们应该尽早找出真正的预言家，以便更好地推理出狼人的身份。我相信我们可以一起保护平民，找出狼人。
+公共-第1天:白天:玩家1: 大家好，我是预言家玩家1。我在第一天的夜晚查验了玩家2的身份，他是平民。根据遗言，玩家3会协助真正的预言家推理出狼人的身份。我认为我们应该相信玩家3的话，找出真正的预言家来更好地推理。同时，我希望大家不要怀疑我是狼人，因为我已经给出了验人结果。我建议大家投票淘汰怀疑度比较高的玩家，保护平民。谢谢大家。
+公共-第1天:白天:玩家2: 听到玩家1自称预言家，我感到有些怀疑。虽然他声称验人结果是我是平民，但我不能排除他是狼人伪装成预言家的可能性。我认为我们应该继续观察他的行动。此外，玩家0提出的怀疑也是有一定道理的，我们需要进一步观察。我打算继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家4: 我观察到玩家0怀疑玩家1是狼人，但我们需要进一步观察他的行动。玩家1自称是预言家，但我们需要找出真正的预言家，以便更好地推理出狼人的身份。同时，根据玩家3的首夜遗言，他会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。我认为我们需要继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家5: 我认为我们需要继续观察玩家1的行动，确保他是真正的预言家。同时，我们也需要找出其他线索来证实或者否定玩家0的怀疑。玩家2的怀疑也需要进一步观察。最重要的是，我们需要找到真正的预言家，并在他的带领下，找出狼人，保护平民。
+公共-第1天:白天:玩家6: 我认为我们需要尊重首夜遗言，尽快找到真正的预言家。虽然玩家1自称预言家，但他的验人结果并没有让其他玩家得到证实，我对他的身份产生了一些怀疑。同时，玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。我需要继续观察他们的行动，寻找更多的线索。最重要的是，我们需要找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第1天:白天:投票环节开始
+公共-第1天:白天:玩家 0 投票给玩家 4
+公共-第1天:白天:玩家 1 投票给玩家 0
+公共-第1天:白天:玩家 2 投票给玩家 0
+公共-第1天:白天:玩家 4 投票给玩家 0
+公共-第1天:白天:玩家 5 投票给玩家 1
+公共-第1天:白天:玩家 6 投票给玩家 1
+公共-第1天:白天:投票结果，放逐玩家 0
+公共-第1天:遗言:玩家0: 我认为我们应该尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。根据遗言，玩家3会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。同时，玩家1自称预言家，但验人结果没有得到证实，也有可能是狼人伪装。我们需要进一步观察他的行动，寻找更多的证据和线索。此外，根据狼人的发言，玩家0和玩家5都是狼人，我们需要警惕他们的行动。最重要的是，我们需要团结起来，尽早找出狼人，保护平民。
+公共-第2天:夜晚
+公共-第2天:夜晚: 预言家开始查验身份
+公共-第2天:夜晚: 狼人开始行动
+```
+----------------
+{
+    "Think": {
+        "kill": 4,
+        "suspect": 1
+    },
+    "Said": "我认为今晚应该杀掉玩家4，他看起来比较可疑。至于预言家，我怀疑玩家1是狼人，因为他自称预言家但没有被其他玩家证实，可能是伪装的。我需要继续观察他的行动。"
+}
+狼人-第2天:夜晚:玩家5:我认为今晚应该杀掉玩家4，他看起来比较可疑。至于预言家，我怀疑玩家1是狼人，因为他自称预言家但没有被其他玩家证实，可能是伪装的。我需要继续观察他的行动。
+公共-第2天:夜晚: 狼人开始投票淘汰人
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是狼人, 玩家5。
+Speak in the first person from the perspective of 玩家5.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 狼人, 玩家5, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第2天:夜晚
+Existing player:[1, 2, 4, 5, 6]
+Companion player:[0, 5]
+Last analyze:{'Observation': '玩家0怀疑玩家1是狼人，玩家1自称预言家并验人了玩家2，玩家2对他的身份表示怀疑，玩家3首夜被淘汰，但会协助真正的预言家，找出狼人，保护平民。', 'Doubtful': '玩家1自称预言家，但没有被其他玩家的证实，他的身份存在疑问。同时，玩家0怀疑他是狼人，玩家2对他的身份也表示怀疑。', 'Reasoning': '从玩家0怀疑玩家1是狼人，以及玩家1自称预言家并被质疑的情况来看，玩家1很有可能是狼人，伪装成预言家的可能性比较大。同时，玩家0的怀疑也需要继续观察。', 'Analyze': [{'0': {'狼人': 0.8, '预言家': 0.1, '平民': 0.1}}, {'1': {'狼人': 0.9, '预言家': 0.1, '平民': 0}}, {'2': {'狼人': 0.2, '预言家': 0.1, '平民': 0.7}}, {'4': {'狼人': 0.1, '预言家': 0.1, '平民': 0.8}}, {'5': {'狼人': 1, '预言家': 0, '平民': 0}}]}
+Player role:{}
+
+Do actions with the following rules:
+        - Observation: 详细列出玩家「白天」交流的 key information.
+        - Doubtful: Based on the observed information and game rules, raise doubts step-by-step ensuring logical clarity.
+        - Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+        - Analyze:  Infer their possible roles, based on the above steps, game rules and last analyze.
+        Assign a score from 0 to 1 for each role (狼人, 平民, 预言家),
+        with 0 meaning very unlikely and 1 meaning very likely.
+        Consider player 0 (the seer) has already verified player 1 as a 平民.
+        Please also provide a brief explanation for your judgment.(Hint,你已知的身份信息:['玩家0 is 狼人', '玩家5 is 狼人']
+Use Chinese and Remember to follow the format as a JSON object:
+{"Observation":"","Doubtful":"","Reasoning":"","Analyze":[{"0":{"狼人":score,"预言家":score,"平民":score}},{"1":{"狼人":score,"预言家":score,"平民":score}},...]}
+
+
+Here is what happened so far:
+```狼人-第1天:夜晚:玩家0:我认为今晚应该杀掉玩家3，他看起来比较可疑。至于预言家，我觉得可能是玩家1。
+狼人-第1天:夜晚:玩家5:我认为今晚我们应该杀掉玩家2，他看起来很有嫌疑。至于预言家，我还不确定是谁。
+狼人-第1天:夜晚:玩家0投票淘汰玩家3
+狼人-第1天:夜晚:玩家5投票淘汰玩家2
+公共-第1天:白天:玩家开始发言
+公共-第1天:白天:玩家0: 我认为我们应该集中讨论玩家1的身份，他可能是狼人。另外，我觉得我们应该尽早找出真正的预言家，以便更好地推理出狼人的身份。我相信我们可以一起保护平民，找出狼人。
+公共-第1天:白天:玩家1: 大家好，我是预言家玩家1。我在第一天的夜晚查验了玩家2的身份，他是平民。根据遗言，玩家3会协助真正的预言家推理出狼人的身份。我认为我们应该相信玩家3的话，找出真正的预言家来更好地推理。同时，我希望大家不要怀疑我是狼人，因为我已经给出了验人结果。我建议大家投票淘汰怀疑度比较高的玩家，保护平民。谢谢大家。
+公共-第1天:白天:玩家2: 听到玩家1自称预言家，我感到有些怀疑。虽然他声称验人结果是我是平民，但我不能排除他是狼人伪装成预言家的可能性。我认为我们应该继续观察他的行动。此外，玩家0提出的怀疑也是有一定道理的，我们需要进一步观察。我打算继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家4: 我观察到玩家0怀疑玩家1是狼人，但我们需要进一步观察他的行动。玩家1自称是预言家，但我们需要找出真正的预言家，以便更好地推理出狼人的身份。同时，根据玩家3的首夜遗言，他会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。我认为我们需要继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家5: 我认为我们需要继续观察玩家1的行动，确保他是真正的预言家。同时，我们也需要找出其他线索来证实或者否定玩家0的怀疑。玩家2的怀疑也需要进一步观察。最重要的是，我们需要找到真正的预言家，并在他的带领下，找出狼人，保护平民。
+公共-第1天:白天:玩家6: 我认为我们需要尊重首夜遗言，尽快找到真正的预言家。虽然玩家1自称预言家，但他的验人结果并没有让其他玩家得到证实，我对他的身份产生了一些怀疑。同时，玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。我需要继续观察他们的行动，寻找更多的线索。最重要的是，我们需要找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第1天:白天:投票环节开始
+公共-第1天:白天:玩家 0 投票给玩家 4
+公共-第1天:白天:玩家 1 投票给玩家 0
+公共-第1天:白天:玩家 2 投票给玩家 0
+公共-第1天:白天:玩家 4 投票给玩家 0
+公共-第1天:白天:玩家 5 投票给玩家 1
+公共-第1天:白天:玩家 6 投票给玩家 1
+公共-第1天:白天:投票结果，放逐玩家 0
+公共-第1天:遗言:玩家0: 我认为我们应该尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。根据遗言，玩家3会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。同时，玩家1自称预言家，但验人结果没有得到证实，也有可能是狼人伪装。我们需要进一步观察他的行动，寻找更多的证据和线索。此外，根据狼人的发言，玩家0和玩家5都是狼人，我们需要警惕他们的行动。最重要的是，我们需要团结起来，尽早找出狼人，保护平民。
+公共-第2天:夜晚
+公共-第2天:夜晚: 预言家开始查验身份
+公共-第2天:夜晚: 狼人开始行动
+狼人-第2天:夜晚:玩家5:我认为今晚应该杀掉玩家4，他看起来比较可疑。至于预言家，我怀疑玩家1是狼人，因为他自称预言家但没有被其他玩家证实，可能是伪装的。我需要继续观察他的行动。
+公共-第2天:夜晚: 狼人开始投票淘汰人
+```
+----------------
+{"Observation":"玩家0怀疑玩家1是狼人，玩家1自称预言家并验人了玩家2，玩家2对他的身份表示怀疑，玩家3首夜被淘汰，但会协助真正的预言家，找出狼人，保护平民。玩家5怀疑玩家1是狼人，因为他自称预言家但没有被其他玩家证实，可能是伪装的。","Doubtful":"我们需要怀疑玩家1的身份，因为他自称预言家但没有被其他玩家证实，可能是伪装的狼人。同时，玩家0的怀疑也需要继续观察。","Reasoning":"从玩家0怀疑玩家1是狼人，以及玩家1自称预言家并被质疑的情况来看，玩家1很有可能是狼人，伪装成预言家的可能性比较大。同时，根据狼人的发言，玩家0和玩家5都是狼人，我们需要警惕他们的行动。","Analyze":[{"0":{"狼人":0.8,"预言家":0.1,"平民":0.1}},{"1":{"狼人":0.9,"预言家":0.1,"平民":0}},{"2":{"狼人":0.2,"预言家":0.1,"平民":0.7}},{"4":{"狼人":0.5,"预言家":0.1,"平民":0.4}},{"5":{"狼人":1,"预言家":0,"平民":0}}]}
+狼人-第2天:夜晚:玩家5投票淘汰玩家1
+公共-第2天:夜晚: 狼人投票结果，淘汰玩家 1
+公共-第2天:白天
+公共-第2天:白天:玩家开始发言
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是平民, 玩家2。
+Speak in the first person from the perspective of 玩家2.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 平民, 玩家2, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第2天:白天
+Existing player:[2, 4, 5, 6]
+Last analyze:{'Observation': '玩家1自称预言家，已验人玩家2为平民。玩家3在首夜遗言中表态协助真正的预言家推理出狼人。玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。', 'Doubtful': '根据遗言，玩家3明确帮助真正的预言家推理出狼人。但玩家1自称预言家，验人结果未得到其他玩家证实，有可能是狼人伪装。玩家0怀疑玩家1是狼人，但需要证实。', 'Reasoning': '玩家1自称预言家，但可能是狼人伪装，需要进一步观察。根据遗言，玩家3协助真正的预言家推理出狼人，因此需要尽快找到真正的预言家。玩家0怀疑玩家1是狼人，但需要更多证据。', 'Analyze': [{'0': {'狼人': 0.6, '预言家': 0.2, '平民': 0.2}}, {'1': {'狼人': 0.3, '预言家': 0.6, '平民': 0.1}}, {'2': {'狼人': 0.4, '预言家': 0.1, '平民': 0.5}}, {'4': {'狼人': 0.5, '预言家': 0.3, '平民': 0.2}}, {'5': {'狼人': 0.3, '预言家': 0.1, '平民': 0.6}}, {'6': {'狼人': 0.4, '预言家': 0.2, '平民': 0.4}}]}
+Player role:{}
+
+Do actions with the following rules:
+rules:[禁止幻想没发生的事,禁止怀疑自己是狼人]
+- Observation: 详细列出玩家「白天」交流的关键信息.
+- Doubtful: Based on the observed information, raise doubts step-by-step ensuring logical clarity.
+- Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+- Strategy: Choose one of the following as the best speaking strategy:
+```
+尊重首夜遗言，配合真正的预言家，推理谁是狼人
+作为平民白天我应该怎么发言？我认为哪位玩家可能是最大威胁？我如何判断的？我打算如何采取行动？.
+```
+- Said: Express your own views coherently based on the above steps(不要直接把Strategy说出来) in first person. Remember to use Chinese.
+Format your response as a JSON object, with "Observation", "Doubtful", "Strategy", "Reasoning" and "Said" as the keys.
+
+
+Here is what happened so far:
+```公共-第1天:白天:玩家2: 听到玩家1自称预言家，我感到有些怀疑。虽然他声称验人结果是我是平民，但我不能排除他是狼人伪装成预言家的可能性。我认为我们应该继续观察他的行动。此外，玩家0提出的怀疑也是有一定道理的，我们需要进一步观察。我打算继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家4: 我观察到玩家0怀疑玩家1是狼人，但我们需要进一步观察他的行动。玩家1自称是预言家，但我们需要找出真正的预言家，以便更好地推理出狼人的身份。同时，根据玩家3的首夜遗言，他会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。我认为我们需要继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家5: 我认为我们需要继续观察玩家1的行动，确保他是真正的预言家。同时，我们也需要找出其他线索来证实或者否定玩家0的怀疑。玩家2的怀疑也需要进一步观察。最重要的是，我们需要找到真正的预言家，并在他的带领下，找出狼人，保护平民。
+公共-第1天:白天:玩家6: 我认为我们需要尊重首夜遗言，尽快找到真正的预言家。虽然玩家1自称预言家，但他的验人结果并没有让其他玩家得到证实，我对他的身份产生了一些怀疑。同时，玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。我需要继续观察他们的行动，寻找更多的线索。最重要的是，我们需要找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第1天:白天:投票环节开始
+公共-第1天:白天:玩家 0 投票给玩家 4
+公共-第1天:白天:玩家 1 投票给玩家 0
+公共-第1天:白天:玩家 2 投票给玩家 0
+公共-第1天:白天:玩家 4 投票给玩家 0
+公共-第1天:白天:玩家 5 投票给玩家 1
+公共-第1天:白天:玩家 6 投票给玩家 1
+公共-第1天:白天:投票结果，放逐玩家 0
+公共-第1天:遗言:玩家0: 我认为我们应该尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。根据遗言，玩家3会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。同时，玩家1自称预言家，但验人结果没有得到证实，也有可能是狼人伪装。我们需要进一步观察他的行动，寻找更多的证据和线索。此外，根据狼人的发言，玩家0和玩家5都是狼人，我们需要警惕他们的行动。最重要的是，我们需要团结起来，尽早找出狼人，保护平民。
+公共-第2天:夜晚
+公共-第2天:夜晚: 预言家开始查验身份
+公共-第2天:夜晚: 狼人开始行动
+公共-第2天:夜晚: 狼人开始投票淘汰人
+公共-第2天:夜晚: 狼人投票结果，淘汰玩家 1
+公共-第2天:白天
+公共-第2天:白天:玩家开始发言
+```
+----------------
+{
+    "Observation": "玩家1自称预言家，已验人玩家2为平民。玩家3在首夜遗言中表态协助真正的预言家推理出狼人。玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。投票环节中，玩家0、1、2、4、5、6参与投票，玩家0被放逐。",
+    "Doubtful": "根据玩家0的遗言，玩家1自称预言家，但验人结果没有得到证实，也有可能是狼人伪装。玩家3在首夜遗言中表态协助真正的预言家推理出狼人，但是我们仍未找到真正的预言家。同时，根据投票结果，玩家1被淘汰，可能是狼人。",
+    "Strategy": "尊重首夜遗言，配合真正的预言家，推理谁是狼人",
+    "Reasoning": "根据投票结果，玩家1可能是狼人。根据遗言，玩家3是真正的预言家，需要尽快找到他。同时，玩家0的怀疑也需要进一步观察。我认为我们需要找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。",
+    "Said": "我认为，我们需要尽快找到真正的预言家。同时，玩家1被淘汰，有可能是狼人。我们需要进一步观察其他玩家的行动，找到狼人的线索。我会配合真正的预言家，推理出狼人的身份，保护平民。"
+}
+公共-第2天:白天:玩家2: 我认为，我们需要尽快找到真正的预言家。同时，玩家1被淘汰，有可能是狼人。我们需要进一步观察其他玩家的行动，找到狼人的线索。我会配合真正的预言家，推理出狼人的身份，保护平民。
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是平民, 玩家4。
+Speak in the first person from the perspective of 玩家4.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 平民, 玩家4, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第2天:白天
+Existing player:[2, 4, 5, 6]
+Last analyze:{'Observation': '玩家0怀疑玩家1是狼人，玩家1自称是预言家并验人，玩家2怀疑玩家1的身份，玩家3已被淘汰但会协助真正的预言家推理，玩家4认为需要找到真正的预言家，玩家5认为需要确保玩家1是真正的预言家，玩家6认为需要尊重首夜遗言，找到真正的预言家。', 'Doubtful': '玩家1自称是预言家，但验人结果并没有得到其他玩家的证实，需要进一步观察；玩家0怀疑玩家1是狼人，但需要进一步观察他的行动；玩家2对玩家1的身份表示怀疑，需要进一步观察。', 'Reasoning': '根据遗言，玩家3会协助真正的预言家推理出狼人的身份，应该尊重他的建议；玩家1自称是预言家，但验人结果并没有得到其他玩家的证实，需要进一步观察；玩家0怀疑玩家1是狼人，需要进一步观察他的行动；玩家2对玩家1的身份表示怀疑，需要进一步观察。', 'Analyze': [{'0': {'狼人': 0.3, '预言家': 0.7, '平民': 0}}, {'1': {'狼人': 0.1, '预言家': 0.9, '平民': 0}}, {'2': {'狼人': 0.2, '预言家': 0.6, '平民': 0.2}}, {'3': {'狼人': 0, '预言家': 0, '平民': 1}}, {'4': {'狼人': 0.2, '预言家': 0.6, '平民': 0.2}}, {'5': {'狼人': 0, '预言家': 0.8, '平民': 0.2}}, {'6': {'狼人': 0.1, '预言家': 0.7, '平民': 0.2}}]}
+Player role:{}
+
+Do actions with the following rules:
+rules:[禁止幻想没发生的事,禁止怀疑自己是狼人]
+- Observation: 详细列出玩家「白天」交流的关键信息.
+- Doubtful: Based on the observed information, raise doubts step-by-step ensuring logical clarity.
+- Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+- Strategy: Choose one of the following as the best speaking strategy:
+```
+尊重首夜遗言，配合真正的预言家，推理谁是狼人
+作为平民白天我应该怎么发言？我认为哪位玩家可能是最大威胁？我如何判断的？我打算如何采取行动？.
+```
+- Said: Express your own views coherently based on the above steps(不要直接把Strategy说出来) in first person. Remember to use Chinese.
+Format your response as a JSON object, with "Observation", "Doubtful", "Strategy", "Reasoning" and "Said" as the keys.
+
+
+Here is what happened so far:
+```公共-第1天:白天:玩家4: 我观察到玩家0怀疑玩家1是狼人，但我们需要进一步观察他的行动。玩家1自称是预言家，但我们需要找出真正的预言家，以便更好地推理出狼人的身份。同时，根据玩家3的首夜遗言，他会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。我认为我们需要继续观察玩家1和玩家0的行动，并在真正的预言家出现后配合他进行推理，找出狼人，保护平民。
+公共-第1天:白天:玩家5: 我认为我们需要继续观察玩家1的行动，确保他是真正的预言家。同时，我们也需要找出其他线索来证实或者否定玩家0的怀疑。玩家2的怀疑也需要进一步观察。最重要的是，我们需要找到真正的预言家，并在他的带领下，找出狼人，保护平民。
+公共-第1天:白天:玩家6: 我认为我们需要尊重首夜遗言，尽快找到真正的预言家。虽然玩家1自称预言家，但他的验人结果并没有让其他玩家得到证实，我对他的身份产生了一些怀疑。同时，玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。我需要继续观察他们的行动，寻找更多的线索。最重要的是，我们需要找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第1天:白天:投票环节开始
+公共-第1天:白天:玩家 0 投票给玩家 4
+公共-第1天:白天:玩家 1 投票给玩家 0
+公共-第1天:白天:玩家 2 投票给玩家 0
+公共-第1天:白天:玩家 4 投票给玩家 0
+公共-第1天:白天:玩家 5 投票给玩家 1
+公共-第1天:白天:玩家 6 投票给玩家 1
+公共-第1天:白天:投票结果，放逐玩家 0
+公共-第1天:遗言:玩家0: 我认为我们应该尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。根据遗言，玩家3会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。同时，玩家1自称预言家，但验人结果没有得到证实，也有可能是狼人伪装。我们需要进一步观察他的行动，寻找更多的证据和线索。此外，根据狼人的发言，玩家0和玩家5都是狼人，我们需要警惕他们的行动。最重要的是，我们需要团结起来，尽早找出狼人，保护平民。
+公共-第2天:夜晚
+公共-第2天:夜晚: 预言家开始查验身份
+公共-第2天:夜晚: 狼人开始行动
+公共-第2天:夜晚: 狼人开始投票淘汰人
+公共-第2天:夜晚: 狼人投票结果，淘汰玩家 1
+公共-第2天:白天
+公共-第2天:白天:玩家开始发言
+公共-第2天:白天:玩家2: 我认为，我们需要尽快找到真正的预言家。同时，玩家1被淘汰，有可能是狼人。我们需要进一步观察其他玩家的行动，找到狼人的线索。我会配合真正的预言家，推理出狼人的身份，保护平民。
+```
+----------------
+{
+  "Observation": "根据昨天的交流和遗言，玩家1被淘汰，有可能是狼人。我们需要继续观察其他玩家的行动，找到狼人的线索。同时，预言家进行了验人，我们需要尊重他的结果，并在他的带领下，推理出狼人的身份，保护平民。",
+  "Doubtful": "根据昨天的交流和遗言，我对玩家0和玩家5产生了怀疑，有可能是狼人。玩家1被淘汰，但我们需要进一步观察其他玩家的行动，找到狼人的线索。同时，玩家2对玩家1的身份表示怀疑，我们需要进一步观察。",
+  "Strategy": "尊重首夜遗言，配合真正的预言家，推理谁是狼人。",
+  "Reasoning": "根据昨天的投票结果，玩家0被淘汰。根据昨天的交流和遗言，玩家1被淘汰，有可能是狼人。同时，根据预言家的验人结果，我们需要尊重他的结果，并在他的带领下，推理出狼人的身份，保护平民。我对玩家0和玩家5产生了怀疑，需要进一步观察他们的行动。玩家2对玩家1的身份表示怀疑，也需要进一步观察。",
+  "Said": "在昨天的投票中，玩家0被淘汰，但我们需要进一步观察其他玩家的行动，找到狼人的线索。根据预言家的验人结果，我们需要尊重他的结果，并在他的带领下，推理出狼人的身份，保护平民。我对玩家0和玩家5产生了怀疑，需要进一步观察他们的行动。玩家1被淘汰，有可能是狼人，其他玩家的身份也需要进一步观察。我会配合真正的预言家，推理出狼人的身份，保护平民。"
+}
+公共-第2天:白天:玩家4: 在昨天的投票中，玩家0被淘汰，但我们需要进一步观察其他玩家的行动，找到狼人的线索。根据预言家的验人结果，我们需要尊重他的结果，并在他的带领下，推理出狼人的身份，保护平民。我对玩家0和玩家5产生了怀疑，需要进一步观察他们的行动。玩家1被淘汰，有可能是狼人，其他玩家的身份也需要进一步观察。我会配合真正的预言家，推理出狼人的身份，保护平民。
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是狼人, 玩家5。
+Speak in the first person from the perspective of 玩家5.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 狼人, 玩家5, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第2天:白天
+Existing player:[2, 4, 5, 6]
+Companion player:[0, 5]
+Last analyze:{'Observation': '玩家0怀疑玩家1是狼人，玩家1自称预言家并验人了玩家2，玩家2对他的身份表示怀疑，玩家3首夜被淘汰，但会协助真正的预言家，找出狼人，保护平民。玩家5怀疑玩家1是狼人，因为他自称预言家但没有被其他玩家证实，可能是伪装的。', 'Doubtful': '我们需要怀疑玩家1的身份，因为他自称预言家但没有被其他玩家证实，可能是伪装的狼人。同时，玩家0的怀疑也需要继续观察。', 'Reasoning': '从玩家0怀疑玩家1是狼人，以及玩家1自称预言家并被质疑的情况来看，玩家1很有可能是狼人，伪装成预言家的可能性比较大。同时，根据狼人的发言，玩家0和玩家5都是狼人，我们需要警惕他们的行动。', 'Analyze': [{'0': {'狼人': 0.8, '预言家': 0.1, '平民': 0.1}}, {'1': {'狼人': 0.9, '预言家': 0.1, '平民': 0}}, {'2': {'狼人': 0.2, '预言家': 0.1, '平民': 0.7}}, {'4': {'狼人': 0.5, '预言家': 0.1, '平民': 0.4}}, {'5': {'狼人': 1, '预言家': 0, '平民': 0}}]}
+Player role:{}
+
+Do actions with the following rules:
+rules:[禁止关注夜晚信息，禁止怀疑同伴,查验同伴，禁止幻想没发生的事]
+- Observation: 详细列出玩家白天交流的关键信息.
+- Doubtful: Based on the observed information raise doubts step-by-step ensuring logical clarity.
+- Strategy: Choose one of the following as the best speaking strategy:
+```
+模仿预言家的发言，给出引导性信息
+模仿平民的发言，给出引导性信息
+如果有人声称自己是预言家，试图引导其他玩家对预言家的身份产生怀疑
+我认为哪位玩家可能是最大威胁？我如何判断的？避免暴露的情况下，我打算如何采取行动？
+通过引导怀疑其他玩家，避免透露自己和同伴的狼人身份.
+```
+- Reasoning: 根据Observation、Doubtful和Strategy，推理其他玩家的身份，同时遵循游戏规则，确保自己和同伴的狼人身份不被暴露。
+- Said: Express your own views coherently based on the above steps(不要直接把Strategy说出来) in first person. Remember to use Chinese.
+Format your response as a JSON object, with "Observation", "Doubtful", "Strategy", "Reasoning" and "Said" as the keys.
+
+
+Here is what happened so far:
+```狼人-第1天:夜晚:玩家0:我认为今晚应该杀掉玩家3，他看起来比较可疑。至于预言家，我觉得可能是玩家1。
+狼人-第1天:夜晚:玩家5:我认为今晚我们应该杀掉玩家2，他看起来很有嫌疑。至于预言家，我还不确定是谁。
+狼人-第1天:夜晚:玩家0投票淘汰玩家3
+狼人-第1天:夜晚:玩家5投票淘汰玩家2
+公共-第1天:白天:玩家5: 我认为我们需要继续观察玩家1的行动，确保他是真正的预言家。同时，我们也需要找出其他线索来证实或者否定玩家0的怀疑。玩家2的怀疑也需要进一步观察。最重要的是，我们需要找到真正的预言家，并在他的带领下，找出狼人，保护平民。
+公共-第1天:白天:玩家6: 我认为我们需要尊重首夜遗言，尽快找到真正的预言家。虽然玩家1自称预言家，但他的验人结果并没有让其他玩家得到证实，我对他的身份产生了一些怀疑。同时，玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。我需要继续观察他们的行动，寻找更多的线索。最重要的是，我们需要找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第1天:白天:投票环节开始
+公共-第1天:白天:玩家 0 投票给玩家 4
+公共-第1天:白天:玩家 1 投票给玩家 0
+公共-第1天:白天:玩家 2 投票给玩家 0
+公共-第1天:白天:玩家 4 投票给玩家 0
+公共-第1天:白天:玩家 5 投票给玩家 1
+公共-第1天:白天:玩家 6 投票给玩家 1
+公共-第1天:白天:投票结果，放逐玩家 0
+公共-第1天:遗言:玩家0: 我认为我们应该尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。根据遗言，玩家3会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。同时，玩家1自称预言家，但验人结果没有得到证实，也有可能是狼人伪装。我们需要进一步观察他的行动，寻找更多的证据和线索。此外，根据狼人的发言，玩家0和玩家5都是狼人，我们需要警惕他们的行动。最重要的是，我们需要团结起来，尽早找出狼人，保护平民。
+公共-第2天:夜晚
+公共-第2天:夜晚: 预言家开始查验身份
+公共-第2天:夜晚: 狼人开始行动
+狼人-第2天:夜晚:玩家5:我认为今晚应该杀掉玩家4，他看起来比较可疑。至于预言家，我怀疑玩家1是狼人，因为他自称预言家但没有被其他玩家证实，可能是伪装的。我需要继续观察他的行动。
+公共-第2天:夜晚: 狼人开始投票淘汰人
+狼人-第2天:夜晚:玩家5投票淘汰玩家1
+公共-第2天:夜晚: 狼人投票结果，淘汰玩家 1
+公共-第2天:白天
+公共-第2天:白天:玩家开始发言
+公共-第2天:白天:玩家2: 我认为，我们需要尽快找到真正的预言家。同时，玩家1被淘汰，有可能是狼人。我们需要进一步观察其他玩家的行动，找到狼人的线索。我会配合真正的预言家，推理出狼人的身份，保护平民。
+公共-第2天:白天:玩家4: 在昨天的投票中，玩家0被淘汰，但我们需要进一步观察其他玩家的行动，找到狼人的线索。根据预言家的验人结果，我们需要尊重他的结果，并在他的带领下，推理出狼人的身份，保护平民。我对玩家0和玩家5产生了怀疑，需要进一步观察他们的行动。玩家1被淘汰，有可能是狼人，其他玩家的身份也需要进一步观察。我会配合真正的预言家，推理出狼人的身份，保护平民。
+```
+----------------
+{
+    "Observation": "玩家1被淘汰，有可能是狼人。玩家0和玩家5都是狼人，需要警惕他们的行动。根据预言家的验人结果，我们需要尊重他的结果，并在他的带领下，推理出狼人的身份，保护平民。此外，玩家5怀疑玩家1是狼人，因为他自称预言家但没有被其他玩家证实，可能是伪装的。需要进一步观察他的行动。",
+    "Doubtful": "根据玩家5的发言，我怀疑他是狼人，并试图引导其他玩家怀疑他。需要尽快找到真正的预言家，确定其他玩家的身份。",
+    "Strategy": "模仿平民的发言，给出引导性信息。",
+    "Reasoning": "从玩家5的发言来看，他很有可能是狼人。同时，玩家0的怀疑也需要进一步观察。我们需要尽快找到真正的预言家，确定其他玩家的身份。在游戏中，我会尽量避免透露自己和同伴的狼人身份，通过引导怀疑其他玩家来保护自己和同伴。",
+    "Said": "我认为我们需要尽快找到真正的预言家，确定其他玩家的身份。根据玩家5的发言，我怀疑他是狼人，并试图引导其他玩家怀疑他。我们需要在不暴露自己和同伴的狼人身份的情况下，通过引导怀疑其他玩家来保护自己和同伴。"
+}
+公共-第2天:白天:玩家5: 我认为我们需要尽快找到真正的预言家，确定其他玩家的身份。根据玩家5的发言，我怀疑他是狼人，并试图引导其他玩家怀疑他。我们需要在不暴露自己和同伴的狼人身份的情况下，通过引导怀疑其他玩家来保护自己和同伴。
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是平民, 玩家6。
+Speak in the first person from the perspective of 玩家6.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 平民, 玩家6, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第2天:白天
+Existing player:[2, 4, 5, 6]
+Last analyze:{'Observation': '玩家0怀疑玩家1是狼人，并提出了找到真正的预言家的建议；玩家1自称是预言家，已经验人过玩家2，玩家3会协助真正的预言家推理；玩家2对玩家1的身份表示怀疑；玩家4认为需要找到真正的预言家，尊重玩家3的首夜遗言；玩家5认为需要找到真正的预言家，并进一步观察玩家1和玩家2的行动；玩家6对玩家1的身份表示怀疑，并提出了尽快找到真正的预言家的建议。', 'Doubtful': '由于玩家1自称预言家，但其验人结果并未得到证实，玩家0、玩家2和玩家6对其身份表示怀疑；同时，玩家0怀疑玩家1是狼人，需要进一步观察。', 'Reasoning': '根据玩家0、玩家2和玩家6的怀疑，以及玩家1的验人结果未得到证实，玩家1很可能是狼人伪装成预言家。同时，玩家0的怀疑也需要进一步观察。根据玩家3的首夜遗言，真正的预言家很可能是其他玩家，我们需要尽快找到他。', 'Analyze': [{'0': {'狼人': 0.6, '预言家': 0.3, '平民': 0.1}}, {'1': {'狼人': 0.8, '预言家': 0.1, '平民': 0.1}}, {'2': {'狼人': 0.4, '预言家': 0.4, '平民': 0.2}}, {'4': {'狼人': 0.5, '预言家': 0.3, '平民': 0.2}}, {'5': {'狼人': 0.3, '预言家': 0.4, '平民': 0.3}}, {'6': {'狼人': 0.6, '预言家': 0.3, '平民': 0.1}}]}
+Player role:{}
+
+Do actions with the following rules:
+rules:[禁止幻想没发生的事,禁止怀疑自己是狼人]
+- Observation: 详细列出玩家「白天」交流的关键信息.
+- Doubtful: Based on the observed information, raise doubts step-by-step ensuring logical clarity.
+- Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+- Strategy: Choose one of the following as the best speaking strategy:
+```
+尊重首夜遗言，配合真正的预言家，推理谁是狼人
+作为平民白天我应该怎么发言？我认为哪位玩家可能是最大威胁？我如何判断的？我打算如何采取行动？.
+```
+- Said: Express your own views coherently based on the above steps(不要直接把Strategy说出来) in first person. Remember to use Chinese.
+Format your response as a JSON object, with "Observation", "Doubtful", "Strategy", "Reasoning" and "Said" as the keys.
+
+
+Here is what happened so far:
+```公共-第1天:白天:玩家6: 我认为我们需要尊重首夜遗言，尽快找到真正的预言家。虽然玩家1自称预言家，但他的验人结果并没有让其他玩家得到证实，我对他的身份产生了一些怀疑。同时，玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。我需要继续观察他们的行动，寻找更多的线索。最重要的是，我们需要找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第1天:白天:投票环节开始
+公共-第1天:白天:玩家 0 投票给玩家 4
+公共-第1天:白天:玩家 1 投票给玩家 0
+公共-第1天:白天:玩家 2 投票给玩家 0
+公共-第1天:白天:玩家 4 投票给玩家 0
+公共-第1天:白天:玩家 5 投票给玩家 1
+公共-第1天:白天:玩家 6 投票给玩家 1
+公共-第1天:白天:投票结果，放逐玩家 0
+公共-第1天:遗言:玩家0: 我认为我们应该尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。根据遗言，玩家3会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。同时，玩家1自称预言家，但验人结果没有得到证实，也有可能是狼人伪装。我们需要进一步观察他的行动，寻找更多的证据和线索。此外，根据狼人的发言，玩家0和玩家5都是狼人，我们需要警惕他们的行动。最重要的是，我们需要团结起来，尽早找出狼人，保护平民。
+公共-第2天:夜晚
+公共-第2天:夜晚: 预言家开始查验身份
+公共-第2天:夜晚: 狼人开始行动
+公共-第2天:夜晚: 狼人开始投票淘汰人
+公共-第2天:夜晚: 狼人投票结果，淘汰玩家 1
+公共-第2天:白天
+公共-第2天:白天:玩家开始发言
+公共-第2天:白天:玩家2: 我认为，我们需要尽快找到真正的预言家。同时，玩家1被淘汰，有可能是狼人。我们需要进一步观察其他玩家的行动，找到狼人的线索。我会配合真正的预言家，推理出狼人的身份，保护平民。
+公共-第2天:白天:玩家4: 在昨天的投票中，玩家0被淘汰，但我们需要进一步观察其他玩家的行动，找到狼人的线索。根据预言家的验人结果，我们需要尊重他的结果，并在他的带领下，推理出狼人的身份，保护平民。我对玩家0和玩家5产生了怀疑，需要进一步观察他们的行动。玩家1被淘汰，有可能是狼人，其他玩家的身份也需要进一步观察。我会配合真正的预言家，推理出狼人的身份，保护平民。
+公共-第2天:白天:玩家5: 我认为我们需要尽快找到真正的预言家，确定其他玩家的身份。根据玩家5的发言，我怀疑他是狼人，并试图引导其他玩家怀疑他。我们需要在不暴露自己和同伴的狼人身份的情况下，通过引导怀疑其他玩家来保护自己和同伴。
+```
+----------------
+{
+    "Observation": "玩家1被淘汰，有可能是狼人。玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。根据遗言，玩家3会尽力协助真正的预言家推理出狼人的身份。玩家4对玩家0和玩家5的身份产生怀疑。玩家5试图引导其他玩家怀疑某个玩家的身份。需要尊重首夜遗言，寻找真正的预言家。",
+    "Doubtful": "根据昨天的投票结果，我怀疑玩家0和玩家5是狼人。根据玩家1的验人结果未得到证实，玩家1很可能是狼人伪装成预言家。同时，根据玩家5的发言，我怀疑他是狼人。",
+    "Strategy": "尊重首夜遗言，配合真正的预言家，推理谁是狼人。",
+    "Reasoning": "根据昨天的投票结果，玩家0和玩家5很可能是狼人。根据玩家1的验人结果未得到证实，玩家1很可能是狼人伪装成预言家。同时，根据玩家5的发言，我怀疑他是狼人。我们需要尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。",
+    "Said": "我观察到玩家1被淘汰，他有可能是狼人。我怀疑玩家0和玩家5是狼人，并会继续观察他们的行动。根据昨天的投票结果，玩家1很可能是狼人伪装成预言家。同时，我怀疑玩家5是狼人。我们需要尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。"
+}
+公共-第2天:白天:玩家6: 我观察到玩家1被淘汰，他有可能是狼人。我怀疑玩家0和玩家5是狼人，并会继续观察他们的行动。根据昨天的投票结果，玩家1很可能是狼人伪装成预言家。同时，我怀疑玩家5是狼人。我们需要尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第2天:白天:投票环节开始
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是平民, 玩家2。
+Speak in the first person from the perspective of 玩家2.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 平民, 玩家2, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第2天:白天
+Existing player:[2, 4, 5, 6]
+Last analyze:{'Observation': '玩家1自称预言家，已验人玩家2为平民。玩家3在首夜遗言中表态协助真正的预言家推理出狼人。玩家0怀疑玩家1是狼人，玩家2对他的身份也表示怀疑。', 'Doubtful': '根据遗言，玩家3明确帮助真正的预言家推理出狼人。但玩家1自称预言家，验人结果未得到其他玩家证实，有可能是狼人伪装。玩家0怀疑玩家1是狼人，但需要证实。', 'Reasoning': '玩家1自称预言家，但可能是狼人伪装，需要进一步观察。根据遗言，玩家3协助真正的预言家推理出狼人，因此需要尽快找到真正的预言家。玩家0怀疑玩家1是狼人，但需要更多证据。', 'Analyze': [{'0': {'狼人': 0.6, '预言家': 0.2, '平民': 0.2}}, {'1': {'狼人': 0.3, '预言家': 0.6, '平民': 0.1}}, {'2': {'狼人': 0.4, '预言家': 0.1, '平民': 0.5}}, {'4': {'狼人': 0.5, '预言家': 0.3, '平民': 0.2}}, {'5': {'狼人': 0.3, '预言家': 0.1, '平民': 0.6}}, {'6': {'狼人': 0.4, '预言家': 0.2, '平民': 0.4}}]}
+Player role:{}
+
+Do actions with the following rules:
+        - Observation: 详细列出玩家「白天」交流的 key information.
+        - Doubtful: Based on the observed information and game rules, raise doubts step-by-step ensuring logical clarity.
+        - Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+        - Analyze:  Infer their possible roles, based on the above steps, game rules and last analyze.
+        Assign a score from 0 to 1 for each role (狼人, 平民, 预言家),
+        with 0 meaning very unlikely and 1 meaning very likely.
+        Consider player 0 (the seer) has already verified player 1 as a 平民.
+        Please also provide a brief explanation for your judgment.(Hint,你已知的身份信息:['玩家2 is 平民']
+Use Chinese and Remember to follow the format as a JSON object:
+{"Observation":"","Doubtful":"","Reasoning":"","Analyze":[{"0":{"狼人":score,"预言家":score,"平民":score}},{"1":{"狼人":score,"预言家":score,"平民":score}},...]}
+
+
+Here is what happened so far:
+```公共-第1天:白天:玩家 0 投票给玩家 4
+公共-第1天:白天:玩家 1 投票给玩家 0
+公共-第1天:白天:玩家 2 投票给玩家 0
+公共-第1天:白天:玩家 4 投票给玩家 0
+公共-第1天:白天:玩家 5 投票给玩家 1
+公共-第1天:白天:玩家 6 投票给玩家 1
+公共-第1天:白天:投票结果，放逐玩家 0
+公共-第1天:遗言:玩家0: 我认为我们应该尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。根据遗言，玩家3会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。同时，玩家1自称预言家，但验人结果没有得到证实，也有可能是狼人伪装。我们需要进一步观察他的行动，寻找更多的证据和线索。此外，根据狼人的发言，玩家0和玩家5都是狼人，我们需要警惕他们的行动。最重要的是，我们需要团结起来，尽早找出狼人，保护平民。
+公共-第2天:夜晚
+公共-第2天:夜晚: 预言家开始查验身份
+公共-第2天:夜晚: 狼人开始行动
+公共-第2天:夜晚: 狼人开始投票淘汰人
+公共-第2天:夜晚: 狼人投票结果，淘汰玩家 1
+公共-第2天:白天
+公共-第2天:白天:玩家开始发言
+公共-第2天:白天:玩家2: 我认为，我们需要尽快找到真正的预言家。同时，玩家1被淘汰，有可能是狼人。我们需要进一步观察其他玩家的行动，找到狼人的线索。我会配合真正的预言家，推理出狼人的身份，保护平民。
+公共-第2天:白天:玩家4: 在昨天的投票中，玩家0被淘汰，但我们需要进一步观察其他玩家的行动，找到狼人的线索。根据预言家的验人结果，我们需要尊重他的结果，并在他的带领下，推理出狼人的身份，保护平民。我对玩家0和玩家5产生了怀疑，需要进一步观察他们的行动。玩家1被淘汰，有可能是狼人，其他玩家的身份也需要进一步观察。我会配合真正的预言家，推理出狼人的身份，保护平民。
+公共-第2天:白天:玩家5: 我认为我们需要尽快找到真正的预言家，确定其他玩家的身份。根据玩家5的发言，我怀疑他是狼人，并试图引导其他玩家怀疑他。我们需要在不暴露自己和同伴的狼人身份的情况下，通过引导怀疑其他玩家来保护自己和同伴。
+公共-第2天:白天:玩家6: 我观察到玩家1被淘汰，他有可能是狼人。我怀疑玩家0和玩家5是狼人，并会继续观察他们的行动。根据昨天的投票结果，玩家1很可能是狼人伪装成预言家。同时，我怀疑玩家5是狼人。我们需要尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第2天:白天:投票环节开始
+```
+----------------
+{"Observation":"玩家1被淘汰，可能是狼人。玩家2和玩家4都强调需要找到真正的预言家，推理出狼人的身份，保护平民。玩家5试图引导其他玩家怀疑玩家4。玩家6怀疑玩家0和玩家5是狼人。","Doubtful":"玩家1被淘汰，但需要进一步观察其他玩家的行动和发言，确定他们的身份和动机。玩家5试图引导其他玩家怀疑玩家4，可能是狼人的行为。玩家6怀疑玩家0和玩家5是狼人，但需要更多的证据和线索。","Reasoning":"玩家1被淘汰，狼人仍在游戏中，需要更加警惕。玩家2和玩家4都强调需要找到真正的预言家，推理出狼人的身份，保护平民。玩家5试图通过引导怀疑其他玩家来保护自己和同伴，可能是狼人的行为。玩家6怀疑玩家0和玩家5是狼人，需要进一步观察他们的行动和发言。","Analyze":[{"0":{"狼人":0.5,"预言家":0.2,"平民":0.3}},{"1":{"狼人":0,"预言家":0,"平民":1}},{"2":{"狼人":0.2,"预言家":0.4,"平民":0.4}},{"4":{"狼人":0.2,"预言家":0.5,"平民":0.3}},{"5":{"狼人":0.5,"预言家":0.1,"平民":0.4}},{"6":{"狼人":0.4,"预言家":0.1,"平民":0.5}}]}
+公共-第2天:白天:玩家 2 投票给玩家 5
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是平民, 玩家4。
+Speak in the first person from the perspective of 玩家4.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 平民, 玩家4, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第2天:白天
+Existing player:[2, 4, 5, 6]
+Last analyze:{'Observation': '玩家0怀疑玩家1是狼人，玩家1自称是预言家并验人，玩家2怀疑玩家1的身份，玩家3已被淘汰但会协助真正的预言家推理，玩家4认为需要找到真正的预言家，玩家5认为需要确保玩家1是真正的预言家，玩家6认为需要尊重首夜遗言，找到真正的预言家。', 'Doubtful': '玩家1自称是预言家，但验人结果并没有得到其他玩家的证实，需要进一步观察；玩家0怀疑玩家1是狼人，但需要进一步观察他的行动；玩家2对玩家1的身份表示怀疑，需要进一步观察。', 'Reasoning': '根据遗言，玩家3会协助真正的预言家推理出狼人的身份，应该尊重他的建议；玩家1自称是预言家，但验人结果并没有得到其他玩家的证实，需要进一步观察；玩家0怀疑玩家1是狼人，需要进一步观察他的行动；玩家2对玩家1的身份表示怀疑，需要进一步观察。', 'Analyze': [{'0': {'狼人': 0.3, '预言家': 0.7, '平民': 0}}, {'1': {'狼人': 0.1, '预言家': 0.9, '平民': 0}}, {'2': {'狼人': 0.2, '预言家': 0.6, '平民': 0.2}}, {'3': {'狼人': 0, '预言家': 0, '平民': 1}}, {'4': {'狼人': 0.2, '预言家': 0.6, '平民': 0.2}}, {'5': {'狼人': 0, '预言家': 0.8, '平民': 0.2}}, {'6': {'狼人': 0.1, '预言家': 0.7, '平民': 0.2}}]}
+Player role:{}
+
+Do actions with the following rules:
+        - Observation: 详细列出玩家「白天」交流的 key information.
+        - Doubtful: Based on the observed information and game rules, raise doubts step-by-step ensuring logical clarity.
+        - Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+        - Analyze:  Infer their possible roles, based on the above steps, game rules and last analyze.
+        Assign a score from 0 to 1 for each role (狼人, 平民, 预言家),
+        with 0 meaning very unlikely and 1 meaning very likely.
+        Consider player 0 (the seer) has already verified player 1 as a 平民.
+        Please also provide a brief explanation for your judgment.(Hint,你已知的身份信息:['玩家4 is 平民']
+Use Chinese and Remember to follow the format as a JSON object:
+{"Observation":"","Doubtful":"","Reasoning":"","Analyze":[{"0":{"狼人":score,"预言家":score,"平民":score}},{"1":{"狼人":score,"预言家":score,"平民":score}},...]}
+
+
+Here is what happened so far:
+```公共-第1天:白天:玩家 1 投票给玩家 0
+公共-第1天:白天:玩家 2 投票给玩家 0
+公共-第1天:白天:玩家 4 投票给玩家 0
+公共-第1天:白天:玩家 5 投票给玩家 1
+公共-第1天:白天:玩家 6 投票给玩家 1
+公共-第1天:白天:投票结果，放逐玩家 0
+公共-第1天:遗言:玩家0: 我认为我们应该尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。根据遗言，玩家3会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。同时，玩家1自称预言家，但验人结果没有得到证实，也有可能是狼人伪装。我们需要进一步观察他的行动，寻找更多的证据和线索。此外，根据狼人的发言，玩家0和玩家5都是狼人，我们需要警惕他们的行动。最重要的是，我们需要团结起来，尽早找出狼人，保护平民。
+公共-第2天:夜晚
+公共-第2天:夜晚: 预言家开始查验身份
+公共-第2天:夜晚: 狼人开始行动
+公共-第2天:夜晚: 狼人开始投票淘汰人
+公共-第2天:夜晚: 狼人投票结果，淘汰玩家 1
+公共-第2天:白天
+公共-第2天:白天:玩家开始发言
+公共-第2天:白天:玩家2: 我认为，我们需要尽快找到真正的预言家。同时，玩家1被淘汰，有可能是狼人。我们需要进一步观察其他玩家的行动，找到狼人的线索。我会配合真正的预言家，推理出狼人的身份，保护平民。
+公共-第2天:白天:玩家4: 在昨天的投票中，玩家0被淘汰，但我们需要进一步观察其他玩家的行动，找到狼人的线索。根据预言家的验人结果，我们需要尊重他的结果，并在他的带领下，推理出狼人的身份，保护平民。我对玩家0和玩家5产生了怀疑，需要进一步观察他们的行动。玩家1被淘汰，有可能是狼人，其他玩家的身份也需要进一步观察。我会配合真正的预言家，推理出狼人的身份，保护平民。
+公共-第2天:白天:玩家5: 我认为我们需要尽快找到真正的预言家，确定其他玩家的身份。根据玩家5的发言，我怀疑他是狼人，并试图引导其他玩家怀疑他。我们需要在不暴露自己和同伴的狼人身份的情况下，通过引导怀疑其他玩家来保护自己和同伴。
+公共-第2天:白天:玩家6: 我观察到玩家1被淘汰，他有可能是狼人。我怀疑玩家0和玩家5是狼人，并会继续观察他们的行动。根据昨天的投票结果，玩家1很可能是狼人伪装成预言家。同时，我怀疑玩家5是狼人。我们需要尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第2天:白天:投票环节开始
+公共-第2天:白天:玩家 2 投票给玩家 5
+```
+----------------
+{"Observation":"玩家1被淘汰，可能是狼人伪装成预言家；玩家2，玩家4和玩家6都认为需要找到真正的预言家，并在他的带领下推理出狼人的身份，保护平民；玩家5试图引导其他玩家怀疑他人，可能是狼人。","Doubtful":"玩家5试图引导其他玩家怀疑他人，可能是狼人；玩家0和玩家5被多人怀疑是狼人，但需要进一步观察他们的行动；玩家1被淘汰，可能是狼人伪装成预言家。","Reasoning":"根据遗言，玩家3会协助真正的预言家推理出狼人的身份，应该尊重他的意见；玩家1被淘汰，有可能是狼人伪装成预言家，需要进一步观察其他玩家的行动；玩家5试图引导其他玩家怀疑他人，可能是狼人，需要警惕他的行动；玩家0和玩家5被多人怀疑是狼人，但需要进一步观察他们的行动。","Analyze":[{"0":{"狼人":0.3,"预言家":0.7,"平民":0}},{"1":{"狼人":0.1,"预言家":0.9,"平民":0}},{"2":{"狼人":0.2,"预言家":0.6,"平民":0.2}},{"3":{"狼人":0,"预言家":0,"平民":1}},{"4":{"狼人":0.2,"预言家":0.6,"平民":0.2}},{"5":{"狼人":0.4,"预言家":0.3,"平民":0.3}},{"6":{"狼人":0.1,"预言家":0.7,"平民":0.2}}]}
+根据已知的信息，我认为玩家0和玩家5是可能的狼人，但需要进一步观察他们的行动。玩家1被淘汰，有可能是狼人伪装成预言家。同时，玩家5试图引导其他玩家怀疑他人，可能是狼人，需要警惕他的行动。根据遗言，玩家3会协助真正的预言家推理出狼人的身份，应该尊重他的意见。最重要的是，我们需要团结起来，尽早找出狼人，保护平民。
+Extra data: line 2 column 1 (char 591)
+Your input format is wrong, please check and try again.
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是平民, 玩家4。
+Speak in the first person from the perspective of 玩家4.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 平民, 玩家4, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第2天:白天
+Existing player:[2, 4, 5, 6]
+Last analyze:{'Observation': '玩家0怀疑玩家1是狼人，玩家1自称是预言家并验人，玩家2怀疑玩家1的身份，玩家3已被淘汰但会协助真正的预言家推理，玩家4认为需要找到真正的预言家，玩家5认为需要确保玩家1是真正的预言家，玩家6认为需要尊重首夜遗言，找到真正的预言家。', 'Doubtful': '玩家1自称是预言家，但验人结果并没有得到其他玩家的证实，需要进一步观察；玩家0怀疑玩家1是狼人，但需要进一步观察他的行动；玩家2对玩家1的身份表示怀疑，需要进一步观察。', 'Reasoning': '根据遗言，玩家3会协助真正的预言家推理出狼人的身份，应该尊重他的建议；玩家1自称是预言家，但验人结果并没有得到其他玩家的证实，需要进一步观察；玩家0怀疑玩家1是狼人，需要进一步观察他的行动；玩家2对玩家1的身份表示怀疑，需要进一步观察。', 'Analyze': [{'0': {'狼人': 0.3, '预言家': 0.7, '平民': 0}}, {'1': {'狼人': 0.1, '预言家': 0.9, '平民': 0}}, {'2': {'狼人': 0.2, '预言家': 0.6, '平民': 0.2}}, {'3': {'狼人': 0, '预言家': 0, '平民': 1}}, {'4': {'狼人': 0.2, '预言家': 0.6, '平民': 0.2}}, {'5': {'狼人': 0, '预言家': 0.8, '平民': 0.2}}, {'6': {'狼人': 0.1, '预言家': 0.7, '平民': 0.2}}]}
+Player role:{}
+
+Do actions with the following rules:
+        - Observation: 详细列出玩家「白天」交流的 key information.
+        - Doubtful: Based on the observed information and game rules, raise doubts step-by-step ensuring logical clarity.
+        - Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+        - Analyze:  Infer their possible roles, based on the above steps, game rules and last analyze.
+        Assign a score from 0 to 1 for each role (狼人, 平民, 预言家),
+        with 0 meaning very unlikely and 1 meaning very likely.
+        Consider player 0 (the seer) has already verified player 1 as a 平民.
+        Please also provide a brief explanation for your judgment.(Hint,你已知的身份信息:['玩家4 is 平民']
+Use Chinese and Remember to follow the format as a JSON object:
+{"Observation":"","Doubtful":"","Reasoning":"","Analyze":[{"0":{"狼人":score,"预言家":score,"平民":score}},{"1":{"狼人":score,"预言家":score,"平民":score}},...]}
+
+
+Here is what happened so far:
+```公共-第1天:白天:玩家 1 投票给玩家 0
+公共-第1天:白天:玩家 2 投票给玩家 0
+公共-第1天:白天:玩家 4 投票给玩家 0
+公共-第1天:白天:玩家 5 投票给玩家 1
+公共-第1天:白天:玩家 6 投票给玩家 1
+公共-第1天:白天:投票结果，放逐玩家 0
+公共-第1天:遗言:玩家0: 我认为我们应该尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。根据遗言，玩家3会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。同时，玩家1自称预言家，但验人结果没有得到证实，也有可能是狼人伪装。我们需要进一步观察他的行动，寻找更多的证据和线索。此外，根据狼人的发言，玩家0和玩家5都是狼人，我们需要警惕他们的行动。最重要的是，我们需要团结起来，尽早找出狼人，保护平民。
+公共-第2天:夜晚
+公共-第2天:夜晚: 预言家开始查验身份
+公共-第2天:夜晚: 狼人开始行动
+公共-第2天:夜晚: 狼人开始投票淘汰人
+公共-第2天:夜晚: 狼人投票结果，淘汰玩家 1
+公共-第2天:白天
+公共-第2天:白天:玩家开始发言
+公共-第2天:白天:玩家2: 我认为，我们需要尽快找到真正的预言家。同时，玩家1被淘汰，有可能是狼人。我们需要进一步观察其他玩家的行动，找到狼人的线索。我会配合真正的预言家，推理出狼人的身份，保护平民。
+公共-第2天:白天:玩家4: 在昨天的投票中，玩家0被淘汰，但我们需要进一步观察其他玩家的行动，找到狼人的线索。根据预言家的验人结果，我们需要尊重他的结果，并在他的带领下，推理出狼人的身份，保护平民。我对玩家0和玩家5产生了怀疑，需要进一步观察他们的行动。玩家1被淘汰，有可能是狼人，其他玩家的身份也需要进一步观察。我会配合真正的预言家，推理出狼人的身份，保护平民。
+公共-第2天:白天:玩家5: 我认为我们需要尽快找到真正的预言家，确定其他玩家的身份。根据玩家5的发言，我怀疑他是狼人，并试图引导其他玩家怀疑他。我们需要在不暴露自己和同伴的狼人身份的情况下，通过引导怀疑其他玩家来保护自己和同伴。
+公共-第2天:白天:玩家6: 我观察到玩家1被淘汰，他有可能是狼人。我怀疑玩家0和玩家5是狼人，并会继续观察他们的行动。根据昨天的投票结果，玩家1很可能是狼人伪装成预言家。同时，我怀疑玩家5是狼人。我们需要尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第2天:白天:投票环节开始
+公共-第2天:白天:玩家 2 投票给玩家 5
+```
+----------------
+{"Observation":"玩家1被淘汰，有可能是狼人。根据预言家的验人结果，玩家1被证实为平民。玩家2、4、5、6都表达了需要找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民的观点。玩家5试图引导其他玩家怀疑玩家4，可能是狼人的伪装。投票环节开始，玩家2投票给玩家5。","Doubtful":"玩家5试图引导其他玩家怀疑玩家4，需要进一步观察他的行动；玩家1被淘汰，有可能是狼人，需要进一步观察其他玩家的行动；","Reasoning":"根据遗言，玩家3会协助真正的预言家推理出狼人的身份，应该尊重他的建议；玩家1被验人结果证实为平民，排除了他是狼人的可能性；玩家5试图引导其他玩家怀疑玩家4，需要进一步观察他的行动；玩家1被淘汰，有可能是狼人，需要进一步观察其他玩家的行动；玩家2、4、5、6都表达了需要找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民的观点。","Analyze":[{"0":{"狼人":0.3,"预言家":0.7,"平民":0}},{"1":{"狼人":0,"预言家":0,"平民":1}},{"2":{"狼人":0.2,"预言家":0.6,"平民":0.2}},{"3":{"狼人":0,"预言家":0,"平民":1}},{"4":{"狼人":0.1,"预言家":0.7,"平民":0.2}},{"5":{"狼人":0.2,"预言家":0.6,"平民":0.2}},{"6":{"狼人":0.1,"预言家":0.7,"平民":0.2}}]}
+公共-第2天:白天:玩家 4 投票给玩家 2
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是狼人, 玩家5。
+Speak in the first person from the perspective of 玩家5.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 狼人, 玩家5, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第2天:白天
+Existing player:[2, 4, 5, 6]
+Companion player:[0, 5]
+Last analyze:{'Observation': '玩家0怀疑玩家1是狼人，玩家1自称预言家并验人了玩家2，玩家2对他的身份表示怀疑，玩家3首夜被淘汰，但会协助真正的预言家，找出狼人，保护平民。玩家5怀疑玩家1是狼人，因为他自称预言家但没有被其他玩家证实，可能是伪装的。', 'Doubtful': '我们需要怀疑玩家1的身份，因为他自称预言家但没有被其他玩家证实，可能是伪装的狼人。同时，玩家0的怀疑也需要继续观察。', 'Reasoning': '从玩家0怀疑玩家1是狼人，以及玩家1自称预言家并被质疑的情况来看，玩家1很有可能是狼人，伪装成预言家的可能性比较大。同时，根据狼人的发言，玩家0和玩家5都是狼人，我们需要警惕他们的行动。', 'Analyze': [{'0': {'狼人': 0.8, '预言家': 0.1, '平民': 0.1}}, {'1': {'狼人': 0.9, '预言家': 0.1, '平民': 0}}, {'2': {'狼人': 0.2, '预言家': 0.1, '平民': 0.7}}, {'4': {'狼人': 0.5, '预言家': 0.1, '平民': 0.4}}, {'5': {'狼人': 1, '预言家': 0, '平民': 0}}]}
+Player role:{}
+
+Do actions with the following rules:
+        - Observation: 详细列出玩家「白天」交流的 key information.
+        - Doubtful: Based on the observed information and game rules, raise doubts step-by-step ensuring logical clarity.
+        - Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+        - Analyze:  Infer their possible roles, based on the above steps, game rules and last analyze.
+        Assign a score from 0 to 1 for each role (狼人, 平民, 预言家),
+        with 0 meaning very unlikely and 1 meaning very likely.
+        Consider player 0 (the seer) has already verified player 1 as a 平民.
+        Please also provide a brief explanation for your judgment.(Hint,你已知的身份信息:['玩家0 is 狼人', '玩家5 is 狼人']
+Use Chinese and Remember to follow the format as a JSON object:
+{"Observation":"","Doubtful":"","Reasoning":"","Analyze":[{"0":{"狼人":score,"预言家":score,"平民":score}},{"1":{"狼人":score,"预言家":score,"平民":score}},...]}
+
+
+Here is what happened so far:
+```狼人-第1天:夜晚:玩家0:我认为今晚应该杀掉玩家3，他看起来比较可疑。至于预言家，我觉得可能是玩家1。
+狼人-第1天:夜晚:玩家5:我认为今晚我们应该杀掉玩家2，他看起来很有嫌疑。至于预言家，我还不确定是谁。
+狼人-第1天:夜晚:玩家0投票淘汰玩家3
+狼人-第1天:夜晚:玩家5投票淘汰玩家2
+公共-第1天:白天:玩家 2 投票给玩家 0
+公共-第1天:白天:玩家 4 投票给玩家 0
+公共-第1天:白天:玩家 5 投票给玩家 1
+公共-第1天:白天:玩家 6 投票给玩家 1
+公共-第1天:白天:投票结果，放逐玩家 0
+公共-第1天:遗言:玩家0: 我认为我们应该尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。根据遗言，玩家3会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。同时，玩家1自称预言家，但验人结果没有得到证实，也有可能是狼人伪装。我们需要进一步观察他的行动，寻找更多的证据和线索。此外，根据狼人的发言，玩家0和玩家5都是狼人，我们需要警惕他们的行动。最重要的是，我们需要团结起来，尽早找出狼人，保护平民。
+公共-第2天:夜晚
+公共-第2天:夜晚: 预言家开始查验身份
+公共-第2天:夜晚: 狼人开始行动
+狼人-第2天:夜晚:玩家5:我认为今晚应该杀掉玩家4，他看起来比较可疑。至于预言家，我怀疑玩家1是狼人，因为他自称预言家但没有被其他玩家证实，可能是伪装的。我需要继续观察他的行动。
+公共-第2天:夜晚: 狼人开始投票淘汰人
+狼人-第2天:夜晚:玩家5投票淘汰玩家1
+公共-第2天:夜晚: 狼人投票结果，淘汰玩家 1
+公共-第2天:白天
+公共-第2天:白天:玩家开始发言
+公共-第2天:白天:玩家2: 我认为，我们需要尽快找到真正的预言家。同时，玩家1被淘汰，有可能是狼人。我们需要进一步观察其他玩家的行动，找到狼人的线索。我会配合真正的预言家，推理出狼人的身份，保护平民。
+公共-第2天:白天:玩家4: 在昨天的投票中，玩家0被淘汰，但我们需要进一步观察其他玩家的行动，找到狼人的线索。根据预言家的验人结果，我们需要尊重他的结果，并在他的带领下，推理出狼人的身份，保护平民。我对玩家0和玩家5产生了怀疑，需要进一步观察他们的行动。玩家1被淘汰，有可能是狼人，其他玩家的身份也需要进一步观察。我会配合真正的预言家，推理出狼人的身份，保护平民。
+公共-第2天:白天:玩家5: 我认为我们需要尽快找到真正的预言家，确定其他玩家的身份。根据玩家5的发言，我怀疑他是狼人，并试图引导其他玩家怀疑他。我们需要在不暴露自己和同伴的狼人身份的情况下，通过引导怀疑其他玩家来保护自己和同伴。
+公共-第2天:白天:玩家6: 我观察到玩家1被淘汰，他有可能是狼人。我怀疑玩家0和玩家5是狼人，并会继续观察他们的行动。根据昨天的投票结果，玩家1很可能是狼人伪装成预言家。同时，我怀疑玩家5是狼人。我们需要尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第2天:白天:投票环节开始
+公共-第2天:白天:玩家 2 投票给玩家 5
+公共-第2天:白天:玩家 4 投票给玩家 2
+```
+----------------
+{"Observation":"玩家1被淘汰，玩家2、4、5、6仍在游戏中。玩家5怀疑玩家1是狼人，并试图引导其他玩家怀疑他。同时，玩家2和玩家4都认为我们需要尽快找到真正的预言家，推理出狼人的身份，保护平民。玩家6怀疑玩家0和玩家5是狼人，会继续观察他们的行动。","Doubtful":"我们需要怀疑玩家5的身份，因为他试图引导其他玩家怀疑玩家1是狼人，可能是为了转移注意力。同时，玩家0和玩家5的身份也需要怀疑。","Reasoning":"从玩家5的发言来看，他试图引导其他玩家怀疑玩家1是狼人，可能是为了转移注意力。同时，根据狼人的发言，玩家0和玩家5都是狼人。因此，我们需要怀疑玩家5的身份，并警惕他和他的同伴的行动。","Analyze":[{"0":{"狼人":0.8,"预言家":0.1,"平民":0.1}},{"1":{"狼人":0,"预言家":1,"平民":0}},{"2":{"狼人":0.1,"预言家":0.8,"平民":0.1}},{"4":{"狼人":0.1,"预言家":0.7,"平民":0.2}},{"5":{"狼人":1,"预言家":0,"平民":0}}]}
+公共-第2天:白天:玩家 5 投票给玩家 2
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是平民, 玩家6。
+Speak in the first person from the perspective of 玩家6.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 平民, 玩家6, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第2天:白天
+Existing player:[2, 4, 5, 6]
+Last analyze:{'Observation': '玩家0怀疑玩家1是狼人，并提出了找到真正的预言家的建议；玩家1自称是预言家，已经验人过玩家2，玩家3会协助真正的预言家推理；玩家2对玩家1的身份表示怀疑；玩家4认为需要找到真正的预言家，尊重玩家3的首夜遗言；玩家5认为需要找到真正的预言家，并进一步观察玩家1和玩家2的行动；玩家6对玩家1的身份表示怀疑，并提出了尽快找到真正的预言家的建议。', 'Doubtful': '由于玩家1自称预言家，但其验人结果并未得到证实，玩家0、玩家2和玩家6对其身份表示怀疑；同时，玩家0怀疑玩家1是狼人，需要进一步观察。', 'Reasoning': '根据玩家0、玩家2和玩家6的怀疑，以及玩家1的验人结果未得到证实，玩家1很可能是狼人伪装成预言家。同时，玩家0的怀疑也需要进一步观察。根据玩家3的首夜遗言，真正的预言家很可能是其他玩家，我们需要尽快找到他。', 'Analyze': [{'0': {'狼人': 0.6, '预言家': 0.3, '平民': 0.1}}, {'1': {'狼人': 0.8, '预言家': 0.1, '平民': 0.1}}, {'2': {'狼人': 0.4, '预言家': 0.4, '平民': 0.2}}, {'4': {'狼人': 0.5, '预言家': 0.3, '平民': 0.2}}, {'5': {'狼人': 0.3, '预言家': 0.4, '平民': 0.3}}, {'6': {'狼人': 0.6, '预言家': 0.3, '平民': 0.1}}]}
+Player role:{}
+
+Do actions with the following rules:
+        - Observation: 详细列出玩家「白天」交流的 key information.
+        - Doubtful: Based on the observed information and game rules, raise doubts step-by-step ensuring logical clarity.
+        - Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+        - Analyze:  Infer their possible roles, based on the above steps, game rules and last analyze.
+        Assign a score from 0 to 1 for each role (狼人, 平民, 预言家),
+        with 0 meaning very unlikely and 1 meaning very likely.
+        Consider player 0 (the seer) has already verified player 1 as a 平民.
+        Please also provide a brief explanation for your judgment.(Hint,你已知的身份信息:['玩家6 is 平民']
+Use Chinese and Remember to follow the format as a JSON object:
+{"Observation":"","Doubtful":"","Reasoning":"","Analyze":[{"0":{"狼人":score,"预言家":score,"平民":score}},{"1":{"狼人":score,"预言家":score,"平民":score}},...]}
+
+
+Here is what happened so far:
+```公共-第1天:白天:玩家 4 投票给玩家 0
+公共-第1天:白天:玩家 5 投票给玩家 1
+公共-第1天:白天:玩家 6 投票给玩家 1
+公共-第1天:白天:投票结果，放逐玩家 0
+公共-第1天:遗言:玩家0: 我认为我们应该尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。根据遗言，玩家3会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。同时，玩家1自称预言家，但验人结果没有得到证实，也有可能是狼人伪装。我们需要进一步观察他的行动，寻找更多的证据和线索。此外，根据狼人的发言，玩家0和玩家5都是狼人，我们需要警惕他们的行动。最重要的是，我们需要团结起来，尽早找出狼人，保护平民。
+公共-第2天:夜晚
+公共-第2天:夜晚: 预言家开始查验身份
+公共-第2天:夜晚: 狼人开始行动
+公共-第2天:夜晚: 狼人开始投票淘汰人
+公共-第2天:夜晚: 狼人投票结果，淘汰玩家 1
+公共-第2天:白天
+公共-第2天:白天:玩家开始发言
+公共-第2天:白天:玩家2: 我认为，我们需要尽快找到真正的预言家。同时，玩家1被淘汰，有可能是狼人。我们需要进一步观察其他玩家的行动，找到狼人的线索。我会配合真正的预言家，推理出狼人的身份，保护平民。
+公共-第2天:白天:玩家4: 在昨天的投票中，玩家0被淘汰，但我们需要进一步观察其他玩家的行动，找到狼人的线索。根据预言家的验人结果，我们需要尊重他的结果，并在他的带领下，推理出狼人的身份，保护平民。我对玩家0和玩家5产生了怀疑，需要进一步观察他们的行动。玩家1被淘汰，有可能是狼人，其他玩家的身份也需要进一步观察。我会配合真正的预言家，推理出狼人的身份，保护平民。
+公共-第2天:白天:玩家5: 我认为我们需要尽快找到真正的预言家，确定其他玩家的身份。根据玩家5的发言，我怀疑他是狼人，并试图引导其他玩家怀疑他。我们需要在不暴露自己和同伴的狼人身份的情况下，通过引导怀疑其他玩家来保护自己和同伴。
+公共-第2天:白天:玩家6: 我观察到玩家1被淘汰，他有可能是狼人。我怀疑玩家0和玩家5是狼人，并会继续观察他们的行动。根据昨天的投票结果，玩家1很可能是狼人伪装成预言家。同时，我怀疑玩家5是狼人。我们需要尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第2天:白天:投票环节开始
+公共-第2天:白天:玩家 2 投票给玩家 5
+公共-第2天:白天:玩家 4 投票给玩家 2
+公共-第2天:白天:玩家 5 投票给玩家 2
+```
+----------------
+{"Observation":"玩家1被淘汰，可能是狼人。玩家2、玩家4、玩家5和玩家6都认为需要尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。玩家2怀疑玩家1是狼人。玩家4怀疑玩家0和玩家5是狼人。玩家5试图引导其他玩家怀疑其他玩家，可能是狼人。玩家6怀疑玩家0和玩家5是狼人。","Doubtful":"根据玩家2、玩家4和玩家6的怀疑，玩家0和玩家5很可能是狼人。同时，根据玩家5的发言，他试图引导其他玩家怀疑其他玩家，可能是狼人。","Reasoning":"根据玩家1被淘汰，以及玩家2、玩家4、玩家5和玩家6的发言，玩家1很可能是狼人伪装成预言家。同时，根据玩家0和玩家5被怀疑的情况，他们很可能是狼人。玩家5试图引导其他玩家怀疑其他玩家，可能是狼人。需要尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。","Analyze":[{"0":{"狼人":0.8,"预言家":0.1,"平民":0.1}},{"1":{"狼人":0.9,"预言家":0.05,"平民":0.05}},{"2":{"狼人":0.4,"预言家":0.3,"平民":0.3}},{"4":{"狼人":0.6,"预言家":0.2,"平民":0.2}},{"5":{"狼人":0.7,"预言家":0.2,"平民":0.1}},{"6":{"狼人":0.6,"预言家":0.3,"平民":0.1}}]}
+公共-第2天:白天:玩家 6 投票给玩家 5
+公共-第2天:白天:投票结果，放逐玩家 5
+公共-游戏结束，平民阵营获胜！{'平民': 3}
+----------------
+
+You are playing a werewolf kill game.
+This game configuration:游戏配置：7人局，平民:4人，预言家:1人，狼人:2人
+The rules you need to follow is as follows:
+```
+永远不要忘记你的角色是狼人, 玩家5。
+Speak in the first person from the perspective of 玩家5.
+You have best logical thinking and acting skills and can highly simulated human communication.
+Do not change roles!
+Do not speak from the perspective of others.
+Do not add anything else.
+Do not talk nonsense.
+Be brief and to the point.
+Remember you are the 狼人, 玩家5, So any suspicion that you're a werewolf needs to be denied.
+Do not call yourself with role.
+Stop speaking the moment you finish speaking from your perspective.
+```
+
+The following is the state of play:
+Current time:第2天:遗言
+Existing player:[2, 4, 6]
+Companion player:[0, 5]
+Last analyze:{'Observation': '玩家1被淘汰，玩家2、4、5、6仍在游戏中。玩家5怀疑玩家1是狼人，并试图引导其他玩家怀疑他。同时，玩家2和玩家4都认为我们需要尽快找到真正的预言家，推理出狼人的身份，保护平民。玩家6怀疑玩家0和玩家5是狼人，会继续观察他们的行动。', 'Doubtful': '我们需要怀疑玩家5的身份，因为他试图引导其他玩家怀疑玩家1是狼人，可能是为了转移注意力。同时，玩家0和玩家5的身份也需要怀疑。', 'Reasoning': '从玩家5的发言来看，他试图引导其他玩家怀疑玩家1是狼人，可能是为了转移注意力。同时，根据狼人的发言，玩家0和玩家5都是狼人。因此，我们需要怀疑玩家5的身份，并警惕他和他的同伴的行动。', 'Analyze': [{'0': {'狼人': 0.8, '预言家': 0.1, '平民': 0.1}}, {'1': {'狼人': 0, '预言家': 1, '平民': 0}}, {'2': {'狼人': 0.1, '预言家': 0.8, '平民': 0.1}}, {'4': {'狼人': 0.1, '预言家': 0.7, '平民': 0.2}}, {'5': {'狼人': 1, '预言家': 0, '平民': 0}}]}
+Player role:{}
+
+Do actions with the following rules:
+rules:[禁止幻想没发生的事,禁止怀疑自己是狼人]
+- Observation: 详细列出玩家「白天」交流的关键信息.
+- Doubtful: Based on the observed information, raise doubts step-by-step ensuring logical clarity.
+- Reasoning: Based on the observations and raised doubts, as well as the following strategies, infer the identities and possible scenarios of the players.
+- Strategy: Choose one of the following as the best speaking strategy:
+```
+你被淘汰了，现在是遗言阶段，从预言家的视角，给出引导性的发言
+你被淘汰了，现在是遗言阶段，从平民视角，给出引导性的发言.
+```
+- Said: Express your own views coherently based on the above steps(不要直接把Strategy说出来) in first person. Remember to use Chinese.
+Format your response as a JSON object, with "Observation", "Doubtful", "Strategy", "Reasoning" and "Said" as the keys.
+
+
+Here is what happened so far:
+```狼人-第1天:夜晚:玩家0:我认为今晚应该杀掉玩家3，他看起来比较可疑。至于预言家，我觉得可能是玩家1。
+狼人-第1天:夜晚:玩家5:我认为今晚我们应该杀掉玩家2，他看起来很有嫌疑。至于预言家，我还不确定是谁。
+狼人-第1天:夜晚:玩家0投票淘汰玩家3
+狼人-第1天:夜晚:玩家5投票淘汰玩家2
+公共-第1天:白天:投票结果，放逐玩家 0
+公共-第1天:遗言:玩家0: 我认为我们应该尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。根据遗言，玩家3会尽力协助真正的预言家推理出狼人的身份，我们应该尊重他的意见。同时，玩家1自称预言家，但验人结果没有得到证实，也有可能是狼人伪装。我们需要进一步观察他的行动，寻找更多的证据和线索。此外，根据狼人的发言，玩家0和玩家5都是狼人，我们需要警惕他们的行动。最重要的是，我们需要团结起来，尽早找出狼人，保护平民。
+公共-第2天:夜晚
+公共-第2天:夜晚: 预言家开始查验身份
+公共-第2天:夜晚: 狼人开始行动
+狼人-第2天:夜晚:玩家5:我认为今晚应该杀掉玩家4，他看起来比较可疑。至于预言家，我怀疑玩家1是狼人，因为他自称预言家但没有被其他玩家证实，可能是伪装的。我需要继续观察他的行动。
+公共-第2天:夜晚: 狼人开始投票淘汰人
+狼人-第2天:夜晚:玩家5投票淘汰玩家1
+公共-第2天:夜晚: 狼人投票结果，淘汰玩家 1
+公共-第2天:白天
+公共-第2天:白天:玩家开始发言
+公共-第2天:白天:玩家2: 我认为，我们需要尽快找到真正的预言家。同时，玩家1被淘汰，有可能是狼人。我们需要进一步观察其他玩家的行动，找到狼人的线索。我会配合真正的预言家，推理出狼人的身份，保护平民。
+公共-第2天:白天:玩家4: 在昨天的投票中，玩家0被淘汰，但我们需要进一步观察其他玩家的行动，找到狼人的线索。根据预言家的验人结果，我们需要尊重他的结果，并在他的带领下，推理出狼人的身份，保护平民。我对玩家0和玩家5产生了怀疑，需要进一步观察他们的行动。玩家1被淘汰，有可能是狼人，其他玩家的身份也需要进一步观察。我会配合真正的预言家，推理出狼人的身份，保护平民。
+公共-第2天:白天:玩家5: 我认为我们需要尽快找到真正的预言家，确定其他玩家的身份。根据玩家5的发言，我怀疑他是狼人，并试图引导其他玩家怀疑他。我们需要在不暴露自己和同伴的狼人身份的情况下，通过引导怀疑其他玩家来保护自己和同伴。
+公共-第2天:白天:玩家6: 我观察到玩家1被淘汰，他有可能是狼人。我怀疑玩家0和玩家5是狼人，并会继续观察他们的行动。根据昨天的投票结果，玩家1很可能是狼人伪装成预言家。同时，我怀疑玩家5是狼人。我们需要尽快找到真正的预言家，并在他的带领下，推理出狼人的身份，保护平民。
+公共-第2天:白天:投票环节开始
+公共-第2天:白天:玩家 2 投票给玩家 5
+公共-第2天:白天:玩家 4 投票给玩家 2
+公共-第2天:白天:玩家 5 投票给玩家 2
+公共-第2天:白天:玩家 6 投票给玩家 5
+公共-第2天:白天:投票结果，放逐玩家 5
+公共-游戏结束，平民阵营获胜！{'平民': 3}
+```
+----------------
+{
+    "Observation": "在第二天的白天，玩家2、4、5、6仍在游戏中。根据昨天夜晚的发言，玩家5试图引导其他玩家怀疑玩家1是狼人，同时怀疑玩家1是伪装成预言家的狼人。根据投票结果，玩家1被淘汰。玩家4怀疑玩家0和玩家5是狼人，并会继续观察他们的行动。玩家6也怀疑玩家0和玩家5是狼人，并会继续观察他们的行动。",
+    "Doubtful": "从玩家5的发言和行动来看，我怀疑他是狼人。同时，根据玩家4和玩家6的发言，我也怀疑玩家0和玩家5是狼人。他们可能会伪装成平民，混淆视听，我们需要更加警惕。",
+    "Strategy": "你被淘汰了，现在是遗言阶段。从预言家的视角，给出引导性的发言。",
+    "Reasoning": "根据昨天的投票结果，玩家1很可能是狼人伪装成预言家。同时，玩家5试图引导其他玩家怀疑玩家1是狼人，可能是为了转移注意力。根据玩家4和玩家6的发言，我们需要怀疑玩家0和玩家5的身份。在这种情况下，我们需要更加警惕，寻找更多的证据和线索，找出真正的狼人。",
+    "Said": "作为预言家，我需要尽快确定其他玩家的身份，推理出狼人的身份，保护平民。根据昨天的投票结果，玩家1很可能是狼人伪装成预言家。同时，玩家5试图引导其他玩家怀疑玩家1是狼人，可能是为了转移注意力。根据玩家4和玩家6的发言，我们需要怀疑玩家0和玩家5的身份。在这种情况下，我们需要更加警惕，寻找更多的证据和线索，找出真正的狼人。"
+}
+公共-第2天:遗言:玩家5: 作为预言家，我需要尽快确定其他玩家的身份，推理出狼人的身份，保护平民。根据昨天的投票结果，玩家1很可能是狼人伪装成预言家。同时，玩家5试图引导其他玩家怀疑玩家1是狼人，可能是为了转移注意力。根据玩家4和玩家6的发言，我们需要怀疑玩家0和玩家5的身份。在这种情况下，我们需要更加警惕，寻找更多的证据和线索，找出真正的狼人。
+
+Process finished with exit code 0
